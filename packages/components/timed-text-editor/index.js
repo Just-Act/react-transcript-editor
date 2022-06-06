@@ -114,7 +114,7 @@ class TimedTextEditor extends React.Component {
     //   currentContent,
     //   this.state.originalState
     // );
-    const updatedContent = convertFromRaw(updatedContentRaw);
+    const updatedContent = convertFromRaw(currentContent);
 
     // Update editor state
     const newEditorState = EditorState.push(

@@ -2,7 +2,7 @@
 // and http://jasonwatmore.com/post/2018/04/14/react-npm-how-to-publish-a-react-component-to-npm
 const path = require('path');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-
+console.log(path)
 const isDevelopment = process.env.NODE_ENV !== 'production';
 
 module.exports = {

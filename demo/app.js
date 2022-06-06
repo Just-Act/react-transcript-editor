@@ -56,7 +56,7 @@ class App extends React.Component {
         transcriptData: DEMO_TRANSCRIPT,
         mediaUrl: DEMO_MEDIA_URL,
         title: DEMO_TITLE,
-        sttType: "bbckaldi"
+        sttType: "digitalpaperedit"
       });
     }
    
