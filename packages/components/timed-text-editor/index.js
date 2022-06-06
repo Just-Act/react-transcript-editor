@@ -114,7 +114,7 @@ class TimedTextEditor extends React.Component {
     //   currentContent,
     //   this.state.originalState
     // );
-    const updatedContent = convertFromRaw(updatedContentRaw);
+    const updatedContent = convertFromRaw(currentContent);
 
     // Update editor state
     const newEditorState = EditorState.push(
@@ -319,7 +319,7 @@ class TimedTextEditor extends React.Component {
         e.keyCode === rKey ||
         e.keyCode === tKey)
     ) {
-      e.preventDefault();
+      e.preventDefault(); 
 
       return "keyboard-shortcuts";
     }
