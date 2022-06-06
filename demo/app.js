@@ -5,7 +5,6 @@ import SttTypeSelect from "./select-stt-json-type";
 import ExportFormatSelect from "./select-export-format";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
-import styled from "styled-components";
 
 import {
   loadLocalSavedData,
@@ -189,7 +188,7 @@ class App extends React.Component {
   };
   render() {
     return (
-      <PlayerWrapper className={style.container}>
+      <div className={style.container}>
         <span>React Transcript Editor Demo </span>
         <a
           href="https://github.com/bbc/react-transcript-editor"
@@ -351,11 +350,9 @@ class App extends React.Component {
             disabled
           />
         </section>
-      </PlayerWrapper>
+      </div>
     );
   }
 }
 
 export default App;
-
-const PlayerWrapper = styled.div``;
