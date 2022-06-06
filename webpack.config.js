@@ -1,5 +1,3 @@
-// based on https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f
-// and http://jasonwatmore.com/post/2018/04/14/react-npm-how-to-publish-a-react-component-to-npm
 const path = require("path")
 const MiniCssExtractPlugin = require("mini-css-extract-plugin")
 
@@ -81,12 +79,6 @@ module.exports = {
           loader: "babel-loader",
           options: {
             presets: ["@babel/preset-env", "@babel/preset-react"],
-            plugins: [
-              "@babel/proposal-class-properties",
-              "@babel/plugin-transform-runtime",
-              "@babel/plugin-transform-react-jsx",
-              ["@babel/plugin-proposal-class-properties"],
-            ],
           },
         },
       },
