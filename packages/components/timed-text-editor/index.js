@@ -319,7 +319,7 @@ class TimedTextEditor extends React.Component {
         e.keyCode === rKey ||
         e.keyCode === tKey)
     ) {
-      e.preventDefault();
+      e.preventDefault(); 
 
       return "keyboard-shortcuts";
     }
