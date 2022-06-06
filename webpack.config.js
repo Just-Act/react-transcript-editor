@@ -85,7 +85,7 @@ module.exports = {
               "@babel/proposal-class-properties",
               "@babel/plugin-transform-runtime",
               "@babel/plugin-transform-react-jsx",
-              ["@babel/plugin-proposal-class-properties", { loose: true }],
+              ["@babel/plugin-proposal-class-properties"],
             ],
           },
         },
