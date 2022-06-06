@@ -60,7 +60,8 @@
     "sass": "^1.52.2",
     "sbd": "^1.0.15",
     "smpte-timecode": "^1.2.3",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.5",
+    "yargs": "^17.5.1"
   },
   "peerDependencies": {
     "react": "^16.6.0",
