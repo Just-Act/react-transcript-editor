@@ -188,7 +188,7 @@ class App extends React.Component {
   };
   render() {
     return (
-      <PlayerWrapper className={style.container}>
+      <div className={style.container}>
         <span>React Transcript Editor Demo </span>
         <a
           href="https://github.com/bbc/react-transcript-editor"
@@ -350,11 +350,9 @@ class App extends React.Component {
             disabled
           />
         </section>
-      </PlayerWrapper>
+      </div>
     );
   }
 }
 
 export default App;
-
-const PlayerWrapper = styled.div``;
