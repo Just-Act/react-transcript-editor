@@ -5,6 +5,7 @@ import SttTypeSelect from "./select-stt-json-type";
 import ExportFormatSelect from "./select-export-format";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import styled from "styled-components";
 
 import {
   loadLocalSavedData,
@@ -56,7 +57,7 @@ class App extends React.Component {
         transcriptData: DEMO_TRANSCRIPT,
         mediaUrl: DEMO_MEDIA_URL,
         title: DEMO_TITLE,
-        sttType: "bbckaldi"
+        sttType: "digitalpaperedit"
       });
     }
    
@@ -188,7 +189,7 @@ class App extends React.Component {
   };
   render() {
     return (
-      <div className={style.container}>
+      <PlayerWrapper className={style.container}>
         <span>React Transcript Editor Demo </span>
         <a
           href="https://github.com/bbc/react-transcript-editor"
@@ -350,9 +351,11 @@ class App extends React.Component {
             disabled
           />
         </section>
-      </div>
+      </PlayerWrapper>
     );
   }
 }
 
 export default App;
+
+const PlayerWrapper = styled.div``;
