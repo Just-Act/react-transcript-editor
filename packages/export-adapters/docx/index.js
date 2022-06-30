@@ -23,15 +23,14 @@ function generateDocxFromDraftJs(blockData, transcriptTitle) {
   paragraphTitle.addRun(textTitle);
   paragraphTitle.heading1().center();
   doc.addParagraph(paragraphTitle);
-
   // add spacing
   var paragraphEmpty = new Paragraph();
   doc.addParagraph(paragraphEmpty);
 
   blockData.blocks.forEach((draftJsParagraph) => {
     // TODO: use timecode converter module to convert from seconds to timecode
-    const paragraphSpeakerTimecodes = new Paragraph(shortTimecode(draftJsParagraph.data.words[0].start));
-    const speaker = new TextRun(draftJsParagraph.data.speaker).bold().tab();
+    const paragraphSpeakerTimecodes = new Paragraph();
+    const speaker = new TextRun(draftJsParagraph.data.speaker).bold()//.tab();
     const textBreak = new TextRun('').break();
     paragraphSpeakerTimecodes.addRun(speaker);
     doc.addParagraph(paragraphSpeakerTimecodes);

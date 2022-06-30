@@ -20,16 +20,7 @@ const exportOptionsList = [
     label: "Text file - with Speakers and Timecodes"
   },
   { value: "docx", label: "MS Word" },
-  { value: "srt", label: "Srt - Captions" },
-  { value: "ttml", label: "TTML - Captions" },
-  { value: "premiereTTML", label: "TTML for Adobe Premiere - Captions" },
-  { value: "itt", label: "iTT - Captions" },
-  { value: "csv", label: "CSV - Captions" },
-  { value: "vtt", label: "VTT - Captions" },
-  { value: "pre-segment-txt", label: "Pre segmented txt - Captions" },
-  { value: "json-captions", label: "Json - Captions" },
-  { value: "draftjs", label: "Draft Js - json" },
-  { value: "digitalpaperedit", label: "Digital Paper Edit - Json" }
+
 ];
 
 class TranscriptEditor extends React.Component {
