@@ -122,7 +122,6 @@ function addWordsToSpeakersParagraphs(words, segments) {
 function findSegmentForWord(word, segments) {
   const tmpSegment = segments.find(seg => {
     if (word.id == seg.id) {
-      console.log(word, seg);
       return seg;
     }
   });
