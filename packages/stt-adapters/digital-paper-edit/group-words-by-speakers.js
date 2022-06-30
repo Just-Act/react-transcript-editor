@@ -93,20 +93,13 @@ function addWordsToSpeakersParagraphs (words, segments) {
     // if a segment exists for the word
     if (currentSegment) {
       currentSegmentIndex = segments.indexOf(currentSegment);
-      if (currentSegmentIndex === previousSegmentIndex) {
-        paragraph.words.push(word);
-        paragraph.text += word.text + ' ';
-        paragraph.speaker = currentSegment.speaker;
-      }
-      else {
-        previousSegmentIndex = currentSegmentIndex;
-        paragraph.text.trim();
-        results.push(paragraph);
-        paragraph = { words: [], text: '', speaker: '' };
-        paragraph.words.push(word);
-        paragraph.text += word.text + ' ';
-        paragraph.speaker = currentSegment.speaker;
-      }
+      paragraph = { words: [], text: "", speaker: "" };
+      previousSegmentIndex = currentSegmentIndex;
+      paragraph.text.trim();
+      results.push(paragraph);
+      paragraph.words.push(word);
+      paragraph.text += word.text + " ";
+      paragraph.speaker = currentSegment.speaker;
     }
   });
   results.push(paragraph);
@@ -129,8 +122,8 @@ function addWordsToSpeakersParagraphs (words, segments) {
 */
 function findSegmentForWord(word, segments) {
 
-  const tmpSegment = segments.find((seg) => {
-    if ((word.start >= seg.start) && (word.end <= seg.end)) {
+  const tmpSegment = segments.find(seg => {
+    if (word.id == seg.id) {
       return seg;
     }
   });
