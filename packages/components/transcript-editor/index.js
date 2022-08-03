@@ -476,7 +476,7 @@ class TranscriptEditor extends React.Component {
             <main
               className={
                 this.props.mediaType === "audio"
-                  ? style.mainWithAudiio
+                  ? style.main
                   : style.main
               }
             >

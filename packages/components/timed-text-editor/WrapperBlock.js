@@ -104,7 +104,7 @@ class WrapperBlock extends React.Component {
     const newSpeakerName = prompt('New Speaker Name?', this.state.speaker);
     if (newSpeakerName !== '' && newSpeakerName !== null) {
       this.setState({ speaker: newSpeakerName });
-      const isUpdateAllSpeakerInstances = confirm(`Would you like to replace all occurrences of ${oldSpeakerName} with ${newSpeakerName}?`);
+      const isUpdateAllSpeakerInstances = confirm(`Would you like to replace only one occurrences of ${oldSpeakerName} with ${newSpeakerName}?`);
      
       if (this.props.blockProps.handleAnalyticsEvents) {
         this.props.blockProps.handleAnalyticsEvents({
@@ -115,7 +115,7 @@ class WrapperBlock extends React.Component {
         });
       }
 
-      if(isUpdateAllSpeakerInstances){
+      if(!isUpdateAllSpeakerInstances){
         const ContentState = this.props.blockProps.editorState.getCurrentContent();
         const contentToUpdateWithSpekaers = updateSpeakerName(oldSpeakerName, newSpeakerName, ContentState);
         this.props.blockProps.setEditorNewContentStateSpeakersUpdate(contentToUpdateWithSpekaers);

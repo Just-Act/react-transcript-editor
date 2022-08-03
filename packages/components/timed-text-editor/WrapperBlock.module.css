@@ -38,7 +38,7 @@ to get text out of component with timecodes and speaker names in the interim */
   .speaker {
     color: $color-mid-grey;
     font-weight: bold;
-    text-transform: uppercase;
+    text-transform: capitalize; 
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
@@ -102,7 +102,7 @@ to get text out of component with timecodes and speaker names in the interim */
     vertical-align: middle;
     color: $color-mid-grey;
     font-weight: bold;
-    text-transform: uppercase;
+     text-transform: capitalize; 
     text-align: right;
     text-overflow: ellipsis;
     overflow: hidden;
