@@ -10,7 +10,7 @@ class SpeakerLabel extends PureComponent {
   render() {
     return (
       <span
-        style={{ marginRight: "30px" }}
+        // style={{ marginRight: "30px" }}
         className={
           this.props.isEditable
             ? [style.speaker, style.speakerEditable].join(" ")

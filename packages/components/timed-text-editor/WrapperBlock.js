@@ -198,11 +198,13 @@ class WrapperBlock extends React.Component {
     }
 
     const speakerElement = (
-      <SpeakerLabel
-        name={this.state.speaker}
-        handleOnClickEdit={this.handleOnClickEdit}
-        isEditable={this.props.blockProps.isEditable}
-      />
+      <div style={{ marginRight: "60px" }}>
+        <SpeakerLabel
+          name={this.state.speaker}
+          handleOnClickEdit={this.handleOnClickEdit}
+          isEditable={this.props.blockProps.isEditable}
+        />
+      </div>
     );
 
     const timecodeElement = (

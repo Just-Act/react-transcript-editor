@@ -322,7 +322,7 @@ class App extends React.Component {
           ref={this.transcriptEditorRef}
           handleAutoSaveChanges={this.handleAutoSaveChanges}
           autoSaveContentType={this.state.autoSaveContentType}
-          mediaType={ 'video' }
+          mediaType={ 'audio' }
         />
 
         <section style={{ height: "250px", width: "50%", float: "left" }}>
