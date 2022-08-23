@@ -223,11 +223,12 @@ class WrapperBlock extends React.Component {
           {this.props.blockProps.showTimecodes ? timecodeElement : ""}
 
           {this.state.id}
+          <EditorBlock {...this.props} />
+
 
         </div>
-        <div className={style.text}>
-          <EditorBlock {...this.props} />
-        </div>
+        {/* <div className={style.text}>
+        </div> */}
       </div>
     );
   }
