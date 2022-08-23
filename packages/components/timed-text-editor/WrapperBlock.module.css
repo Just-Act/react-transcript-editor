@@ -19,7 +19,7 @@ to get text out of component with timecodes and speaker names in the interim */
 
   .markers {
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 130px 90px 50px;
   }
 
   .WrapperBlock {
@@ -30,7 +30,7 @@ to get text out of component with timecodes and speaker names in the interim */
       50%,
       81%
     );
-    grid-column-gap: 1%;
+    grid-column-gap: 2%;
     justify-content: center;
     align-content: center;
   }
@@ -102,7 +102,7 @@ to get text out of component with timecodes and speaker names in the interim */
     vertical-align: middle;
     color: $color-mid-grey;
     font-weight: bold;
-     text-transform: capitalize; 
+    text-transform: capitalize; 
     text-align: right;
     text-overflow: ellipsis;
     overflow: hidden;
