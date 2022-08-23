@@ -224,12 +224,10 @@ class WrapperBlock extends React.Component {
 
           {this.state.id}
 
-          <EditorBlock {...this.props} />
-
         </div>
-        {/* <div className={style.text}>
+        <div className={style.text}>
           <EditorBlock {...this.props} />
-        </div> */}
+        </div>
       </div>
     );
   }
