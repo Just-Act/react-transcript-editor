@@ -19,14 +19,14 @@ to get text out of component with timecodes and speaker names in the interim */
 
   .markers {
     display: grid;
-    grid-template-columns: 130px 90px 50px 1050px;
+    grid-template-columns: 130px 90px 20px;
   }
 
   .WrapperBlock {
     margin-bottom: 1em;
     overflow: hidden;
     display: grid;
-    grid-template-columns: [col-speaker] minmax(200px, 18%) [col-text] minmax(
+    grid-template-columns: [col-speaker] minmax(180px, 18%) [col-text] minmax(
       50%,
       81%
     );
