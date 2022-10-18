@@ -32,11 +32,11 @@ function generateDocxFromDraftJs(blockData, transcriptTitle) {
     const speaker = new TextRun(draftJsParagraph.data.speaker).bold() //.tab();
     const textBreak = new TextRun("").break()
     paragraphSpeakerTimecodes.addRun(speaker)
-    paragraphSpeakerTimecodes.addRun(textBreak)
+    // paragraphSpeakerTimecodes.addRun(textBreak)
     doc.addParagraph(paragraphSpeakerTimecodes)
     const paragraphText = new Paragraph(draftJsParagraph.text)
     paragraphText.addRun(textBreak)
-    paragraphText.addRun(textBreak)
+    // paragraphText.addRun(textBreak)
     doc.addParagraph(paragraphText)
   })
 

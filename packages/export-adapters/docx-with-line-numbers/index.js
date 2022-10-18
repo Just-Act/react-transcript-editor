@@ -40,7 +40,7 @@ function generateDocxWithLineNumbersFromDraftJs(blockData, transcriptTitle) {
       `${index + 1}.  ${draftJsParagraph.text}`
     )
     paragraphText.addRun(textBreak)
-    paragraphText.addRun(textBreak)
+    // paragraphText.addRun(textBreak)
     doc.addParagraph(paragraphText)
   })
 
