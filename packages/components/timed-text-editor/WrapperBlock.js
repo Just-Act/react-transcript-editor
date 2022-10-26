@@ -117,9 +117,12 @@ class WrapperBlock extends React.Component {
     }
   };
 
-  handleOnClickEdit = () => {
+  handleOnClickEdit = event => {
     const oldSpeakerName = this.state.speaker;
-    const newSpeakerName = prompt("New Speaker Name?", this.state.speaker);
+    const newSpeakerName = event?.target?.value
+      ? event?.target?.value
+      : prompt("New Speaker Name?", this.state.speaker);
+    // const newSpeakerName = prompt("New Speaker Name?", this.state.speaker);
     if (newSpeakerName !== "" && newSpeakerName !== null) {
       this.setState({ speaker: newSpeakerName });
       const isUpdateAllSpeakerInstances = confirm(
@@ -178,6 +181,7 @@ class WrapperBlock extends React.Component {
         );
       }
     }
+    window.location.reload(true);
   };
 
   handleTimecodeClick = () => {
@@ -203,6 +207,8 @@ class WrapperBlock extends React.Component {
         name={this.state.speaker}
         handleOnClickEdit={this.handleOnClickEdit}
         isEditable={this.props.blockProps.isEditable}
+        transcriptData={this.props.blockProps.transcriptData}
+        contentState={this.props}
       />
     );
 
@@ -223,7 +229,6 @@ class WrapperBlock extends React.Component {
           {this.props.blockProps.showTimecodes ? timecodeElement : ""}
 
           {this.state.id}
-
         </div>
         <div className={style.text}>
           <EditorBlock {...this.props} />
