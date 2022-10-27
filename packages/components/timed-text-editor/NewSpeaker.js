@@ -20,102 +20,98 @@ const NewSpeaker = props => {
       })
     : null;
   return (
-    <Modal open={props?.checkModal?.check}>
+    <div
+      style={{
+        maxWidth: "446px",
+        width: "100%",
+        backgroundColor: "#e1e3ee",
+        outline: "none",
+        position: "absolute",
+        top: "50%",
+        left: "50%",
+        borderRadius: "8px",
+        transform: "translate(-50%, -50%)"
+      }}
+    >
       <div
         style={{
-          maxWidth: "446px",
-          width: "100%",
-          backgroundColor: "white",
-          outline: "none",
-          position: "absolute",
-          top: "50%",
-          left: "50%",
-          borderRadius: "8px",
-          transform: "translate(-50%, -50%)"
+          paddingTop: "30px",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          position: "relative"
         }}
       >
-        <div
+        <h1
           style={{
-            paddingTop: "30px",
-            display: "flex",
-            justifyContent: "center",
-            alignItems: "center",
-            position: "relative"
+            margin: "0",
+            padding: "0",
+            fontSize: "18px",
+            fontWeight: "800",
+            fontStretch: "normal",
+            fontStyle: "normal",
+            lineHeight: "normal",
+            letterSpacing: "normal",
+            textAlign: "center",
+            color: "#293461"
           }}
         >
-          <h1
-            style={{
-              margin: "0",
-              padding: "0",
-              fontSize: "18px",
-              fontWeight: "800",
-              fontStretch: "normal",
-              fontStyle: "normal",
-              lineHeight: "normal",
-              letterSpacing: "normal",
-              textAlign: "center",
-              color: "#293461"
-            }}
-          >
-            Bk
-          </h1>
-          <img
-            style={{
-              width: "14px",
-              height: "14px",
-              objectFit: "contain",
-              cursor: "pointer",
-              position: "absolute",
-              right: "30px"
-            }}
-          />
+          Bk
+        </h1>
+        <img
+          style={{
+            width: "14px",
+            height: "14px",
+            objectFit: "contain",
+            cursor: "pointer",
+            position: "absolute",
+            right: "30px"
+          }}
+        />
+      </div>
+      <p
+        style={{
+          paddingTop: "24px",
+          paddingRight: "40px",
+          paddingLeft: "40px",
+          paddingBottom: "30px",
+          fontSize: "14px",
+          lineHeight: "1.71",
+          textAlign: "justify",
+          overflow: "auto"
+        }}
+      >
+        <Button
+          style={{
+            backgroundColor: "#00838c",
+            color: "#ffffff"
+          }}
+          variant="outlined"
+          onClick={
+            props?.props?.isEditable ? props.props.handleOnClickEdit : null
+          }
+        >
+          {"Click to edit New speaker"}
+        </Button>
+        <div style={{ fontSize: "10px", lineHeight: "2.7", color: "#293461" }}>
+          Select Speaker
         </div>
-        <p
-          style={{
-            paddingTop: "24px",
-            paddingRight: "40px",
-            paddingLeft: "40px",
-            paddingBottom: "30px",
-            fontSize: "14px",
-            lineHeight: "1.71",
-            textAlign: "justify",
-            overflow: "auto"
-          }}
-        >
-          <Button
-            style={{
-              backgroundColor: "#00838c",
-              color: "#ffffff"
-            }}
+        <div>
+          <Select
             variant="outlined"
-            onClick={
+            style={{ width: "100%" }}
+            value={props.props.name}
+            onChange={
               props?.props?.isEditable ? props.props.handleOnClickEdit : null
             }
           >
-            {"Click to edit New speaker"}
-          </Button>
-          <div
-            style={{ fontSize: "10px", lineHeight: "2.7", color: "#293461" }}
-          >
-            Select Speaker
-          </div>
-          <div>
-            <Select
-              variant="outlined"
-              style={{ width: "100%" }}
-              value={props.props.name}
-              onChange={
-                props?.props?.isEditable ? props.props.handleOnClickEdit : null
-              }
-            >
-              {newArray.map(item => (
-                <MenuItem value={item}>{item}</MenuItem>
-              ))}
-            </Select>
-          </div>
-        </p>
-      </div>
-    </Modal>
+            {newArray.map(item => (
+              <MenuItem value={item}>{item}</MenuItem>
+            ))}
+          </Select>
+        </div>
+      </p>
+    </div>
   );
 };
 
