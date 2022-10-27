@@ -181,7 +181,6 @@ class WrapperBlock extends React.Component {
         );
       }
     }
-    window.location.reload(true);
   };
 
   handleTimecodeClick = () => {

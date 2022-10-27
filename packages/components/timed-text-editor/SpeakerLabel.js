@@ -66,7 +66,7 @@ const Index = props => {
             {"Click to edit New speaker"}
           </Button>
           <Label>Select Speaker </Label>
-          <StyledSelectFormControl
+          {/* <StyledSelectFormControl
             variant="outlined"
             style={{ lineHeight: "2.7" }}
           >
@@ -80,103 +80,26 @@ const Index = props => {
                 <StyledMenuItem value={item}>{item}</StyledMenuItem>
               ))}
             </Select>
-          </StyledSelectFormControl>
+          </StyledSelectFormControl> */}
+          <div>
+            <Select
+              variant="outlined"
+              style={{ width: "100%" }}
+              value={props.props.name}
+              onChange={
+                props?.props?.isEditable ? props.props.handleOnClickEdit : null
+              }
+            >
+              {newArray.map(item => (
+                <MenuItem value={item}>{item}</MenuItem>
+              ))}
+            </Select>
+          </div>
         </NoteContainer>
       </DrawerContainer>
     </Modal>
   );
 };
-
-export const StyledSelectFormControl = withStyles({
-  ...StyledInput,
-  root: {
-    fontSize: "16px",
-    width: "100%"
-  }
-})(FormControl);
-
-export const CustomInputField = withStyles(StyledInput)(TextField);
-
-export const StyledInput = {
-  root: {
-    width: "100%",
-    fontSize: "16px",
-    color: `${COLORS.COLOR_DARK} !important`,
-    fontFamily: `${theme.fonts.primaryFontSemiBold}`,
-    // background: COLORS.INPUT_BACKGROUND,
-    "& .MuiPickersToolbar-toolbar": {
-      backgroundColor: COLORS.BTN_GREEN
-    },
-    "& label": {
-      fontFamily: `${theme.fonts.primaryFontSemiBold}`
-    },
-    "& label.Mui-focused": {
-      color: COLORS.COLOR_DARK,
-      fontFamily: `${theme.fonts.primaryFontSemiBold}`,
-      border: `1px solid ${COLORS.INPUT_BORDER}`
-    },
-    "& input": {
-      letterSpacing: 0.1,
-      fontSize: "16px",
-      color: `${COLORS.COLOR_DARK} !important`,
-      fontFamily: `${theme.fonts.primaryFontSemiBold}`
-    },
-    "& .MuiOutlinedInput-root": {
-      backgroundColor: COLORS.INPUT_BACKGROUND,
-      height: 50,
-      "& fieldset": {
-        borderRadius: "6px",
-        border: `1px solid ${COLORS.INPUT_BORDER}`
-      },
-      "&.Mui-focused fieldset": {
-        borderColor: COLORS.INPUT_BORDER
-      }
-    },
-    "& .MuiFormHelperText-root": {
-      position: "absolute",
-      bottom: -17,
-      left: -10,
-      fontFamily: theme.fonts.primaryFontSemiBold,
-      fontSize: 10
-    },
-    "& .MuiSelect-select": {
-      fontSize: "16px",
-      fontFamily: theme.fonts.primaryFontSemiBold
-    },
-    "& .MuiSelect-outlined": {
-      color: COLORS.COLOR_DARK
-    },
-    "& .MuiOutlinedInput-notchedOutline": {
-      border: "none"
-    },
-    "& .MuiMenuItem-root": {
-      fontSize: "16px",
-      fontFamily: theme.fonts.primaryFontSemiBold
-    },
-    "& .MuiInput-underline:after": {
-      borderBottomColor: COLORS.INPUT_BORDER,
-      border: `1px solid ${COLORS.INPUT_BORDER}`
-    },
-    " & input::-webkit-outer-spin-button, & input::-webkit-inner-spin-button": {
-      "-webkit-appearance": "none",
-      margin: 0
-    },
-    "& input[type=number]": {
-      "-moz-appearance": "textfield"
-    }
-  }
-};
-
-const StyledMenuItem = withStyles({
-  root: {
-    fontFamily: theme.fonts.primaryFontSemiBold,
-    color: COLORS.COLOR_DARK
-  },
-  selected: {
-    fontFamily: theme.fonts.primaryFontSemiBold,
-    color: COLORS.COLOR_DARK
-  }
-})(MenuItem);
 
 const Label = styled.div`
   font-family: ${theme.fonts.primaryFontSemiBold};
@@ -239,32 +162,6 @@ const NoteContainer = styled.p`
   line-height: 1.71;
   text-align: justify;
   overflow: auto;
-  & .MuiFormControlLabel-root {
-    font-family: openSans-ExtraBold, san-serif;
-    & .MuiTypography-body1 {
-      font-family: openSans-ExtraBold, san-serif;
-    }
-  }
-  & .sub-heading {
-    font-family: ${theme.fonts.primaryFontBold};
-    font-size: 16px;
-    color: ${COLORS.PRIMARY_BLACK};
-  }
-  & .history-row {
-    display: flex;
-    border-bottom: solid 0.5px #acb1c2;
-    & .MuiCheckbox-colorPrimary.Mui-disabled {
-      cursor: not-allowed !important;
-    }
-  }
-  & .content {
-    flex: 1;
-    padding: 18px 0px;
-    font-family: ${theme.fonts.primaryFontSemiBold};
-    font-size: 16px;
-    font-weight: 600;
-    color: ${COLORS.PRIMARY_BLACK};
-  }
 `;
 
 class SpeakerLabel extends PureComponent {

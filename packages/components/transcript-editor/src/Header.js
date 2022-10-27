@@ -32,13 +32,13 @@ class Header extends React.Component {
         </nav>
 
         <div className={style.settingsContainer}>
-          <button
+          {/* <button
             className={style.settingsButton}
             title="Reload"
             onClick={() => window.location.reload(true)}
           >
             <FontAwesomeIcon icon={faServer} />
-          </button>
+          </button> */}
           <button
             className={style.settingsButton}
             title="Settings"
