@@ -221,6 +221,7 @@ class WrapperBlock extends React.Component {
           className={[style.markers, style.unselectable].join(" ")}
           contentEditable={false}
         >
+          {this.state.confidence}
           {this.props.blockProps.showSpeakers ? speakerElement : ""}
 
           {this.props.blockProps.showTimecodes ? timecodeElement : ""}
