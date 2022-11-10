@@ -206,6 +206,7 @@ class WrapperBlock extends React.Component {
         handleOnClickEdit={this.handleOnClickEdit}
         isEditable={this.props.blockProps.isEditable}
         transcriptData={this.props.blockProps.transcriptData}
+        handleAnalyticsEvents={this.props.blockProps.handleAnalyticsEvents}
       />
     );
 
