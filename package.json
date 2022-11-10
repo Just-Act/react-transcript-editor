@@ -46,7 +46,6 @@
     "@fortawesome/free-brands-svg-icons": "^5.11.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.5",
-    "@material-ui/core": "^4.12.4",
     "babel-polyfill": "^6.26.0",
     "difflib": "^0.2.4",
     "docx": "^4.7.1",
@@ -61,7 +60,7 @@
     "sass": "^1.52.2",
     "sbd": "^1.0.15",
     "smpte-timecode": "^1.2.3",
-    "styled-components": "^5.3.6",
+    "styled-components": "^5.3.5",
     "yargs": "^17.5.1"
   },
   "peerDependencies": {

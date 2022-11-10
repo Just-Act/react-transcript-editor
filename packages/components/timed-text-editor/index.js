@@ -561,7 +561,6 @@ class TimedTextEditor extends React.Component {
           onWordClick={this.onWordClick}
           handleAnalyticsEvents={this.props.handleAnalyticsEvents}
           isEditable={this.props.isEditable}
-          transcriptData={this.props.transcriptData}
         />
       </section>
     )
