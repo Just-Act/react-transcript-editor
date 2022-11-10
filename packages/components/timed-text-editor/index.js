@@ -27,7 +27,7 @@ class TimedTextEditor extends React.Component {
     }
   }
 
-  componentDidMount() {
+  componentDidMount = () => {
     this.loadData()
   }
 
@@ -166,7 +166,7 @@ class TimedTextEditor extends React.Component {
     }
   }
 
-  loadData() {
+  loadData = () => {
     if (this.props.transcriptData !== null) {
       
       const blocks = sttJsonAdapter(
@@ -561,6 +561,7 @@ class TimedTextEditor extends React.Component {
           onWordClick={this.onWordClick}
           handleAnalyticsEvents={this.props.handleAnalyticsEvents}
           isEditable={this.props.isEditable}
+          transcriptData={this.props.transcriptData}
         />
       </section>
     )

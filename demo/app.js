@@ -185,7 +185,7 @@ class App extends React.Component {
     const { data, ext } = newAutoSaveData;
     this.setState({ autoSaveData: data, autoSaveExtension: ext });
     // Saving to local storage 
-    localSave(this.state.mediaUrl, this.state.fileName, data);
+    // localSave(this.state.mediaUrl, this.state.fileName, data);
   };
   render() {
     return (

@@ -38,7 +38,8 @@ class WrapperBlock extends React.Component {
       speaker: "",
       start: 0,
       timecodeOffset: this.props.blockProps.timecodeOffset,
-      id: ""
+      id: "",
+      confidence: ""
     };
   }
 
@@ -50,11 +51,12 @@ class WrapperBlock extends React.Component {
 
     const id = block.getData().get("words");
     const ids = id ? id.map(item => item?.id + 1) : "";
-
+    const confidence = id ? id.map(item => item?.confidence) : "";
     this.setState({
       speaker: speaker,
       start: start,
-      id: ids ? ids : "-"
+      id: ids ? ids : "-",
+      confidence: confidence ? confidence : ""
     });
   }
   // reducing unnecessary re-renders
@@ -203,6 +205,7 @@ class WrapperBlock extends React.Component {
         name={this.state.speaker}
         handleOnClickEdit={this.handleOnClickEdit}
         isEditable={this.props.blockProps.isEditable}
+        transcriptData={this.props.blockProps.transcriptData}
       />
     );
 

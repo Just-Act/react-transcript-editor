@@ -24,6 +24,7 @@ module.exports = {
     sttJsonAdapter: "./packages/stt-adapters/index.js",
     groupWordsInParagraphsBySpeakersDPE:
       "./packages/stt-adapters/digital-paper-edit/group-words-by-speakers.js",
+    NewSpeaker: "./packages/components/timed-text-editor/NewSpeaker.js"
   },
   output: {
     path: path.resolve("dist"),
