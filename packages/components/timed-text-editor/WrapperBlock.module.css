@@ -1,4 +1,4 @@
-@import '../../config/style-guide/colours.scss';
+@import "../../config/style-guide/colours.scss";
 
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/user-select
 TODO: only working in Chrome, not working in Firefox, and Safari - OSX
@@ -7,7 +7,7 @@ Commented out because it means cannot select speakers and timecode anymore
 which is the intended default behavior but needs to come with export
 functionality to export as plain text, word etc.. otherwise user won't be able
 to get text out of component with timecodes and speaker names in the interim */
- .unselectable {
+.unselectable {
   -moz-user-select: none;
   -webkit-user-select: none;
   -ms-user-select: none;
@@ -16,10 +16,10 @@ to get text out of component with timecodes and speaker names in the interim */
 
 /* Desktop size */
 @media (min-width: 768px) {
-
   .markers {
     display: grid;
-    grid-template-columns: 9fr 7fr 2fr
+    grid-template-columns: repeat(4, minmax(90px, 20%));
+    /* grid-template-columns: 9fr 7fr 2fr */
     /* grid-template-columns: 130px 90px 20px; */
   }
 
@@ -28,10 +28,10 @@ to get text out of component with timecodes and speaker names in the interim */
     overflow: hidden;
     display: grid;
     grid-template-columns: [col-speaker] minmax(180px, 18%) [col-text] minmax(
-      50%,
-      81%
-    );
-    grid-column-gap: 2%;
+        50%,
+        81%
+      );
+    grid-column-gap: 1%;
     justify-content: center;
     align-content: center;
   }
@@ -39,7 +39,7 @@ to get text out of component with timecodes and speaker names in the interim */
   .speaker {
     color: $color-mid-grey;
     font-weight: bold;
-    text-transform: capitalize; 
+    text-transform: capitalize;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
@@ -54,7 +54,6 @@ to get text out of component with timecodes and speaker names in the interim */
     clear: right;
   }
 }
-
 
 .time {
   font-weight: lighter;
@@ -80,10 +79,8 @@ to get text out of component with timecodes and speaker names in the interim */
   margin-right: 0.5em;
 }
 
-
 /* Mobile devices */
 @media (max-width: 768px) {
-
   .markers {
     width: 100%;
     font-size: 0.8em;
@@ -103,7 +100,7 @@ to get text out of component with timecodes and speaker names in the interim */
     vertical-align: middle;
     color: $color-mid-grey;
     font-weight: bold;
-    text-transform: capitalize; 
+    text-transform: capitalize;
     text-align: right;
     text-overflow: ellipsis;
     overflow: hidden;

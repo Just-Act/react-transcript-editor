@@ -1,198 +1,198 @@
 {
-	"words": [
-		{
-		  "id": 0,
-		  "end": 2,
-		  "text": "You are currently the only person in this conference. hello this is Bk   kannan  ",
-		  "start": 0
-		},
-		{
-		  "id": 1,
-		  "end": 22,
-		  "text": "Has been set up for simplifying the process.  kannan    ",
-		  "start": 19
-		},
-		{
-		  "id": 2,
-		  "end": 26,
-		  "text": "We offer ready.   hi how are you",
-		  "start": 24
-		},
-		{
-		  "id": 3,
-		  "end": 40,
-		  "text": "The spirit of finding the collaborative solution to end disputes. Resolving disputes can be done at any convenient time. 24 by seven 365 days, and within the confines of your home.      ",
-		  "start": 28
-		},
-		{
-		  "id": 4,
-		  "end": 52,
-		  "text": "Use of alternate dispute resolution techniques, such as negotiation, mediation, and arbitration, results in a much faster and cost effective resolution for disputing parties.      ",
-		  "start": 41
-		},
-		{
-		  "id": 5,
-		  "end": 56,
-		  "text": "So how does one start to resolve disputes such as that?      ",
-		  "start": 53
-		},
-		{
-		  "id": 6,
-		  "end": 70,
-		  "text": "You said about him and cleared the party, which is either you or someone who would have presented you. Did some details and contact details of the other party and choose the mode of resolution.      ",
-		  "start": 58
-		},
-		{
-		  "id": 7,
-		  "end": 77,
-		  "text": "That is all that is needed. See our how to videos for getting step-by-step help on the scene.      ",
-		  "start": 71
-		},
-		{
-		  "id": 8,
-		  "end": 95,
-		  "text": "And yes, every case is assigned a case manager who can help you through the resolution and when needed. What are the modes of dispute resolution available? Negotiation, mediation and arbitration? Let me describe them in some detail negotiation.      ",
-		  "start": 78
-		},
-		{
-		  "id": 9,
-		  "end": 118,
-		  "text": "You can resolve disputes yourself using negotiation. You and the other party. This is best suited for simple and numerical disputes, such as where one party goes some money to the other and that has not been paid on time. The party raising the claim for money brought to it as the claimant and the other party responded. You have 4 rounds.      ",
-		  "start": 95
-		},
-		{
-		  "id": 10,
-		  "end": 137,
-		  "text": "These can converge on the amount in resolution of the claim, and to help you we have smart suggest which suggests optimal numbers in each round using game theory based algorithms and use of artificial intelligence to improve them over time. You may of course choose the numbers in each round yourself.      ",
-		  "start": 118
-		},
-		{
-		  "id": 11,
-		  "end": 169,
-		  "text": "Mediation suited for disputes which need the assistance of a mediator to break the deadlock between parties, such as property disputes or family and matrimonial disputes. We use trained and experienced mediators who facilitate the dialogue between parties and have the relevant expertise to resolve the dispute. The resolution crosses in negotiation and mediation is completely voluntary and confidential, and any of the parties can choose to withdraw from the process.      ",
-		  "start": 139
-		},
-		{
-		  "id": 12,
-		  "end": 181,
-		  "text": "Once the terms of the settlement between the parties are agreed upon, just act helps provide a standardized and enforceable settlement agreement as well arbitration.      ",
-		  "start": 170
-		},
-		{
-		  "id": 13,
-		  "end": 197,
-		  "text": "The arbitration process is 1 where the parties agreed to refer the dispute to one or more arbitrators for a binding decision in the form of an arbitral award. Instead of going to court, this is best suited for complex and contractual disputes.      ",
-		  "start": 181
-		},
-		{
-		  "id": 14,
-		  "end": 229,
-		  "text": "The case manager helps schedule the mediation and arbitration sessions at the convenience of both parties and the neutral. We have a wide array of neutrals, mediators, and arbitrators which offer a choice of linguistic and domain capabilities for parties to choose from. The entire dispute resolution process on the Just Act platform has been kept simple and facilitates amicable resolution of disputes throughout the process. Just act acts independently and not as an advocate.      ",
-		  "start": 198
-		},
-		{
-		  "id": 15,
-		  "end": 236,
-		  "text": "To any of the parties to the dispute, we look forward to resolving disputes for you. Help us help you.      ",
-		  "start": 229
-		}
-	  ],
-	  "paragraphs": [
-		{
-		  "id": 0,
-		  "end": 2,
-		  "start": 0,
-		  "speaker": "bk"
-		},
-		{
-		  "id": 1,
-		  "end": 22,
-		  "start": 19,
-		  "speaker": "Karthik"
-		},
-		{
-		  "id": 2,
-		  "end": 26,
-		  "start": 24,
-		  "speaker": "Karthik"
-		},
-		{
-		  "id": 3,
-		  "end": 40,
-		  "start": 28,
-		  "speaker": "Karthik"
-		},
-		{
-		  "id": 4,
-		  "end": 52,
-		  "start": 41,
-		  "speaker": "Karthik"
-		},
-		{
-		  "id": 5,
-		  "end": 56,
-		  "start": 53,
-		  "speaker": "Karthik"
-		},
-		{
-		  "id": 6,
-		  "end": 70,
-		  "start": 58,
-		  "speaker": "Karthik"
-		},
-		{
-		  "id": 7,
-		  "end": 77,
-		  "start": 71,
-		  "speaker": "Karthik"
-		},
-		{
-		  "id": 8,
-		  "end": 95,
-		  "start": 78,
-		  "speaker": "Karthik"
-		},
-		{
-		  "id": 9,
-		  "end": 118,
-		  "start": 95,
-		  "speaker": "Karthik"
-		},
-		{
-		  "id": 10,
-		  "end": 137,
-		  "start": 118,
-		  "speaker": "bk"
-		},
-		{
-		  "id": 11,
-		  "end": 169,
-		  "start": 139,
-		  "speaker": "bk"
-		},
-		{
-		  "id": 12,
-		  "end": 181,
-		  "start": 170,
-		  "speaker": "bk"
-		},
-		{
-		  "id": 13,
-		  "end": 197,
-		  "start": 181,
-		  "speaker": "bk"
-		},
-		{
-		  "id": 14,
-		  "end": 229,
-		  "start": 198,
-		  "speaker": "bk"
-		},
-		{
-		  "id": 15,
-		  "end": 236,
-		  "start": 229,
-		  "speaker": "bk"
-		}
-	  ]
-  }
+  "words": [
+    {
+      "id": 0,
+      "end": 2,
+      "text": "You are currently the only person in this conference. hello this is Bk   kannan  ",
+      "start": 0
+    },
+    {
+      "id": 1,
+      "end": 22,
+      "text": "Has been set up for simplifying the process.  kannan    ",
+      "start": 19
+    },
+    {
+      "id": 2,
+      "end": 26,
+      "text": "We offer ready.   hi how are you",
+      "start": 24
+    },
+    {
+      "id": 3,
+      "end": 40,
+      "text": "The spirit of finding the collaborative solution to end disputes. Resolving disputes can be done at any convenient time. 24 by seven 365 days, and within the confines of your home.      ",
+      "start": 28
+    },
+    {
+      "id": 4,
+      "end": 52,
+      "text": "Use of alternate dispute resolution techniques, such as negotiation, mediation, and arbitration, results in a much faster and cost effective resolution for disputing parties.      ",
+      "start": 41
+    },
+    {
+      "id": 5,
+      "end": 56,
+      "text": "So how does one start to resolve disputes such as that?      ",
+      "start": 53
+    },
+    {
+      "id": 6,
+      "end": 70,
+      "text": "You said about him and cleared the party, which is either you or someone who would have presented you. Did some details and contact details of the other party and choose the mode of resolution.      ",
+      "start": 58
+    },
+    {
+      "id": 7,
+      "end": 77,
+      "text": "That is all that is needed. See our how to videos for getting step-by-step help on the scene.      ",
+      "start": 71
+    },
+    {
+      "id": 8,
+      "end": 95,
+      "text": "And yes, every case is assigned a case manager who can help you through the resolution and when needed. What are the modes of dispute resolution available? Negotiation, mediation and arbitration? Let me describe them in some detail negotiation.      ",
+      "start": 78
+    },
+    {
+      "id": 9,
+      "end": 118,
+      "text": "You can resolve disputes yourself using negotiation. You and the other party. This is best suited for simple and numerical disputes, such as where one party goes some money to the other and that has not been paid on time. The party raising the claim for money brought to it as the claimant and the other party responded. You have 4 rounds.      ",
+      "start": 95
+    },
+    {
+      "id": 10,
+      "end": 137,
+      "text": "These can converge on the amount in resolution of the claim, and to help you we have smart suggest which suggests optimal numbers in each round using game theory based algorithms and use of artificial intelligence to improve them over time. You may of course choose the numbers in each round yourself.      ",
+      "start": 118
+    },
+    {
+      "id": 11,
+      "end": 169,
+      "text": "Mediation suited for disputes which need the assistance of a mediator to break the deadlock between parties, such as property disputes or family and matrimonial disputes. We use trained and experienced mediators who facilitate the dialogue between parties and have the relevant expertise to resolve the dispute. The resolution crosses in negotiation and mediation is completely voluntary and confidential, and any of the parties can choose to withdraw from the process.      ",
+      "start": 139
+    },
+    {
+      "id": 12,
+      "end": 181,
+      "text": "Once the terms of the settlement between the parties are agreed upon, just act helps provide a standardized and enforceable settlement agreement as well arbitration.      ",
+      "start": 170
+    },
+    {
+      "id": 13,
+      "end": 197,
+      "text": "The arbitration process is 1 where the parties agreed to refer the dispute to one or more arbitrators for a binding decision in the form of an arbitral award. Instead of going to court, this is best suited for complex and contractual disputes.      ",
+      "start": 181
+    },
+    {
+      "id": 14,
+      "end": 229,
+      "text": "The case manager helps schedule the mediation and arbitration sessions at the convenience of both parties and the neutral. We have a wide array of neutrals, mediators, and arbitrators which offer a choice of linguistic and domain capabilities for parties to choose from. The entire dispute resolution process on the Just Act platform has been kept simple and facilitates amicable resolution of disputes throughout the process. Just act acts independently and not as an advocate.      ",
+      "start": 198
+    },
+    {
+      "id": 15,
+      "end": 236,
+      "text": "To any of the parties to the dispute, we look forward to resolving disputes for you. Help us help you.      ",
+      "start": 229
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "end": 2,
+      "start": 0,
+      "speaker": "bk"
+    },
+    {
+      "id": 1,
+      "end": 22,
+      "start": 19,
+      "speaker": "Karthik"
+    },
+    {
+      "id": 2,
+      "end": 26,
+      "start": 24,
+      "speaker": "Karthik"
+    },
+    {
+      "id": 3,
+      "end": 40,
+      "start": 28,
+      "speaker": "Karthik"
+    },
+    {
+      "id": 4,
+      "end": 52,
+      "start": 41,
+      "speaker": "Karthik"
+    },
+    {
+      "id": 5,
+      "end": 56,
+      "start": 53,
+      "speaker": "Karthik"
+    },
+    {
+      "id": 6,
+      "end": 70,
+      "start": 58,
+      "speaker": "Karthik"
+    },
+    {
+      "id": 7,
+      "end": 77,
+      "start": 71,
+      "speaker": "Karthik"
+    },
+    {
+      "id": 8,
+      "end": 95,
+      "start": 78,
+      "speaker": "Karthik"
+    },
+    {
+      "id": 9,
+      "end": 118,
+      "start": 95,
+      "speaker": "Karthik"
+    },
+    {
+      "id": 10,
+      "end": 137,
+      "start": 118,
+      "speaker": "bk"
+    },
+    {
+      "id": 11,
+      "end": 169,
+      "start": 139,
+      "speaker": "bk"
+    },
+    {
+      "id": 12,
+      "end": 181,
+      "start": 170,
+      "speaker": "bk"
+    },
+    {
+      "id": 13,
+      "end": 197,
+      "start": 181,
+      "speaker": "bk"
+    },
+    {
+      "id": 14,
+      "end": 229,
+      "start": 198,
+      "speaker": "bk"
+    },
+    {
+      "id": 15,
+      "end": 236,
+      "start": 229,
+      "speaker": "bk"
+    }
+  ]
+}
