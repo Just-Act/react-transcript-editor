@@ -18,7 +18,8 @@ to get text out of component with timecodes and speaker names in the interim */
 @media (min-width: 768px) {
   .markers {
     display: grid;
-    grid-template-columns: repeat(4, minmax(60px, 20%));
+    grid-template-columns: repeat(4, minmax(90px, 80%));
+    /* grid-template-columns: repeat(4, minmax(60px, 20%)); */
     /* grid-template-columns: 9fr 7fr 2fr */
     /* grid-template-columns: 130px 90px 20px; */
   }
