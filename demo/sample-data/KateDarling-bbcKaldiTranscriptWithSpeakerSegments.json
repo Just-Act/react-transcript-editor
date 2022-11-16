@@ -2,197 +2,2605 @@
   "words": [
     {
       "id": 0,
-      "end": 2,
-      "text": "You are currently the only person in this conference. hello this is Bk   kannan  ",
-      "start": 0
+      "end": 17,
+      "confidence": "70",
+      "text": "Production by large companies such as PayPal, Uber, Netflix.",
+      "start": 13
     },
     {
       "id": 1,
-      "end": 22,
-      "text": "Has been set up for simplifying the process.  kannan    ",
-      "start": 19
+      "end": 24,
+      "confidence": "70",
+      "text": "They were built on one of their Java and spring based applications using.",
+      "start": 21
     },
     {
       "id": 2,
       "end": 26,
-      "text": "We offer ready.   hi how are you",
-      "start": 24
+      "confidence": "70",
+      "text": "I found that.",
+      "start": 26
     },
     {
       "id": 3,
-      "end": 40,
-      "text": "The spirit of finding the collaborative solution to end disputes. Resolving disputes can be done at any convenient time. 24 by seven 365 days, and within the confines of your home.      ",
-      "start": 28
+      "end": 33,
+      "confidence": "70",
+      "text": "Fewer people in 33% Europe.",
+      "start": 30
     },
     {
       "id": 4,
-      "end": 52,
-      "text": "Use of alternate dispute resolution techniques, such as negotiation, mediation, and arbitration, results in a much faster and cost effective resolution for disputing parties.      ",
-      "start": 41
+      "end": 46,
+      "confidence": "70",
+      "text": "Requests served for second time, decreasing the Congress response time with 35%.",
+      "start": 40
     },
     {
       "id": 5,
-      "end": 56,
-      "text": "So how does one start to resolve disputes such as that?      ",
-      "start": 53
+      "end": 50,
+      "confidence": "70",
+      "text": "The node is an excellent choice for building highly scalable services.",
+      "start": 46
     },
     {
       "id": 6,
-      "end": 70,
-      "text": "You said about him and cleared the party, which is either you or someone who would have presented you. Did some details and contact details of the other party and choose the mode of resolution.      ",
-      "start": 58
+      "end": 55,
+      "confidence": "70",
+      "text": "Another reason we're using though is that it don't have the questions. We use Java.",
+      "start": 51
     },
     {
       "id": 7,
-      "end": 77,
-      "text": "That is all that is needed. See our how to videos for getting step-by-step help on the scene.      ",
-      "start": 71
+      "end": 64,
+      "confidence": "70",
+      "text": "So if you have a front end developer with no JavaScript, you can reuse your JavaScript skills and transition to a full spectrum.",
+      "start": 56
     },
     {
       "id": 8,
-      "end": 95,
-      "text": "And yes, every case is assigned a case manager who can help you through the resolution and when needed. What are the modes of dispute resolution available? Negotiation, mediation and arbitration? Let me describe them in some detail negotiation.      ",
-      "start": 78
+      "end": 72,
+      "confidence": "70",
+      "text": "Because you can use JavaScript.",
+      "start": 70
     },
     {
       "id": 9,
-      "end": 118,
-      "text": "You can resolve disputes yourself using negotiation. You and the other party. This is best suited for simple and numerical disputes, such as where one party goes some money to the other and that has not been paid on time. The party raising the claim for money brought to it as the claimant and the other party responded. You have 4 rounds.      ",
-      "start": 95
+      "end": 75,
+      "confidence": "70",
+      "text": "Source.",
+      "start": 74
     },
     {
       "id": 10,
-      "end": 137,
-      "text": "These can converge on the amount in resolution of the claim, and to help you we have smart suggest which suggests optimal numbers in each round using game theory based algorithms and use of artificial intelligence to improve them over time. You may of course choose the numbers in each round yourself.      ",
-      "start": 118
+      "end": 81,
+      "confidence": "70",
+      "text": "So you will use the same naming convention for the same tools in the same place.",
+      "start": 78
     },
     {
       "id": 11,
-      "end": 169,
-      "text": "Mediation suited for disputes which need the assistance of a mediator to break the deadlock between parties, such as property disputes or family and matrimonial disputes. We use trained and experienced mediators who facilitate the dialogue between parties and have the relevant expertise to resolve the dispute. The resolution crosses in negotiation and mediation is completely voluntary and confidential, and any of the parties can choose to withdraw from the process.      ",
-      "start": 139
+      "end": 87,
+      "confidence": "70",
+      "text": "Just.",
+      "start": 86
     },
     {
       "id": 12,
-      "end": 181,
-      "text": "Once the terms of the settlement between the parties are agreed upon, just act helps provide a standardized and enforceable settlement agreement as well arbitration.      ",
-      "start": 170
+      "end": 97,
+      "confidence": "70",
+      "text": "Open source library.",
+      "start": 96
     },
     {
       "id": 13,
-      "end": 197,
-      "text": "The arbitration process is 1 where the parties agreed to refer the dispute to one or more arbitrators for a binding decision in the form of an arbitral award. Instead of going to court, this is best suited for complex and contractual disputes.      ",
-      "start": 181
+      "end": 102,
+      "confidence": "70",
+      "text": "This building works from scratch.",
+      "start": 100
     },
     {
       "id": 14,
-      "end": 229,
-      "text": "The case manager helps schedule the mediation and arbitration sessions at the convenience of both parties and the neutral. We have a wide array of neutrals, mediators, and arbitrators which offer a choice of linguistic and domain capabilities for parties to choose from. The entire dispute resolution process on the Just Act platform has been kept simple and facilitates amicable resolution of disputes throughout the process. Just act acts independently and not as an advocate.      ",
-      "start": 198
+      "end": 108,
+      "confidence": "70",
+      "text": "Architecture.",
+      "start": 107
     },
     {
       "id": 15,
-      "end": 236,
-      "text": "To any of the parties to the dispute, we look forward to resolving disputes for you. Help us help you.      ",
-      "start": 229
+      "end": 119,
+      "confidence": "70",
+      "text": "Type environment executing JavaScript.",
+      "start": 117
+    },
+    {
+      "id": 16,
+      "end": 122,
+      "confidence": "70",
+      "text": "Really.",
+      "start": 121
+    },
+    {
+      "id": 17,
+      "end": 133,
+      "confidence": "70",
+      "text": "JavaScript.",
+      "start": 132
+    },
+    {
+      "id": 18,
+      "end": 135,
+      "confidence": "70",
+      "text": "The two of us.",
+      "start": 134
+    },
+    {
+      "id": 19,
+      "end": 140,
+      "confidence": "70",
+      "text": "For example.",
+      "start": 139
+    },
+    {
+      "id": 20,
+      "end": 142,
+      "confidence": "70",
+      "text": "Strong.",
+      "start": 141
+    },
+    {
+      "id": 21,
+      "end": 146,
+      "confidence": "70",
+      "text": "Behind.",
+      "start": 146
+    },
+    {
+      "id": 22,
+      "end": 149,
+      "confidence": "70",
+      "text": "Engines.",
+      "start": 149
+    },
+    {
+      "id": 23,
+      "end": 195,
+      "confidence": "70",
+      "text": "Inside etc.",
+      "start": 194
+    },
+    {
+      "id": 24,
+      "end": 199,
+      "confidence": "70",
+      "text": "Supported.",
+      "start": 199
+    },
+    {
+      "id": 25,
+      "end": 200,
+      "confidence": "70",
+      "text": "Browser.",
+      "start": 199
+    },
+    {
+      "id": 26,
+      "end": 222,
+      "confidence": "70",
+      "text": "Objects.",
+      "start": 222
+    },
+    {
+      "id": 27,
+      "end": 245,
+      "confidence": "70",
+      "text": "Some additional modules that there was not available inside.",
+      "start": 240
+    },
+    {
+      "id": 28,
+      "end": 249,
+      "confidence": "70",
+      "text": "Networking.",
+      "start": 248
+    },
+    {
+      "id": 29,
+      "end": 257,
+      "confidence": "70",
+      "text": "JavaScript engine. They provide different environments for JavaScript.",
+      "start": 252
+    },
+    {
+      "id": 30,
+      "end": 260,
+      "confidence": "70",
+      "text": "Sure.",
+      "start": 259
+    },
+    {
+      "id": 31,
+      "end": 266,
+      "confidence": "70",
+      "text": "Wrong.",
+      "start": 266
+    },
+    {
+      "id": 32,
+      "end": 281,
+      "confidence": "70",
+      "text": "These are.",
+      "start": 280
+    },
+    {
+      "id": 33,
+      "end": 286,
+      "confidence": "70",
+      "text": "Yeah.",
+      "start": 285
+    },
+    {
+      "id": 34,
+      "end": 289,
+      "confidence": "70",
+      "text": "The basement.",
+      "start": 288
+    },
+    {
+      "id": 35,
+      "end": 298,
+      "confidence": "70",
+      "text": "Works.",
+      "start": 298
+    },
+    {
+      "id": 36,
+      "end": 305,
+      "confidence": "70",
+      "text": "This is not a framework, it's a runtime environment executing JavaScript.",
+      "start": 300
+    },
+    {
+      "id": 37,
+      "end": 307,
+      "confidence": "70",
+      "text": "Thanks.",
+      "start": 306
+    },
+    {
+      "id": 38,
+      "end": 319,
+      "confidence": "70",
+      "text": "Applications were highly scalable and this is because of the example.",
+      "start": 316
+    },
+    {
+      "id": 39,
+      "end": 322,
+      "confidence": "70",
+      "text": "The secret is the nature of God.",
+      "start": 320
+    },
+    {
+      "id": 40,
+      "end": 324,
+      "confidence": "70",
+      "text": "Sponge.",
+      "start": 324
+    },
+    {
+      "id": 41,
+      "end": 332,
+      "confidence": "70",
+      "text": "Later comes to her table, takes your order in the kitchen.",
+      "start": 328
+    },
+    {
+      "id": 42,
+      "end": 337,
+      "confidence": "70",
+      "text": "Another table while the chef is preparing your meal.",
+      "start": 334
+    },
+    {
+      "id": 43,
+      "end": 346,
+      "confidence": "70",
+      "text": "So the same person concerned many different tables. They don't have to wait for the chef one meal before they serve another table.",
+      "start": 338
+    },
+    {
+      "id": 44,
+      "end": 353,
+      "confidence": "70",
+      "text": "Blocking or asynchronous architecture and this is how applications work.",
+      "start": 348
+    },
+    {
+      "id": 45,
+      "end": 360,
+      "confidence": "70",
+      "text": "The weather is like a red allocated to handle and weakness, so a single thread is.",
+      "start": 354
+    },
+    {
+      "id": 46,
+      "end": 362,
+      "confidence": "70",
+      "text": "The communists.",
+      "start": 361
+    },
+    {
+      "id": 47,
+      "end": 369,
+      "confidence": "70",
+      "text": "In contrast with non blocking asynchronous architecture we have blocking or synchronous architecture.",
+      "start": 363
+    },
+    {
+      "id": 48,
+      "end": 371,
+      "confidence": "70",
+      "text": "Let's see how that works.",
+      "start": 370
+    },
+    {
+      "id": 49,
+      "end": 377,
+      "confidence": "70",
+      "text": "Other restaurant in this restaurant.",
+      "start": 375
+    },
+    {
+      "id": 50,
+      "end": 383,
+      "confidence": "70",
+      "text": "Now they're sitting in the kitchen.",
+      "start": 382
+    },
+    {
+      "id": 51,
+      "end": 394,
+      "confidence": "70",
+      "text": "Anything else?",
+      "start": 388
+    },
+    {
+      "id": 52,
+      "end": 394,
+      "confidence": "70",
+      "text": "Just waiting. You're not going to take another table until your meal is ready.",
+      "start": 388
+    },
+    {
+      "id": 53,
+      "end": 407,
+      "confidence": "70",
+      "text": "Singers marchitecture and that's how applications built with frameworks like rails out-of-the-box. So I never received the request on the server.",
+      "start": 397
+    },
+    {
+      "id": 54,
+      "end": 421,
+      "confidence": "70",
+      "text": "It is likely that we want to create a database, and as you know, sometimes it may take a little while until the result is written in the database.",
+      "start": 413
+    },
+    {
+      "id": 55,
+      "end": 424,
+      "confidence": "70",
+      "text": "Is sitting there waiting.",
+      "start": 423
+    },
+    {
+      "id": 56,
+      "end": 429,
+      "confidence": "70",
+      "text": "Sure.",
+      "start": 429
+    },
+    {
+      "id": 57,
+      "end": 435,
+      "confidence": "70",
+      "text": "Clients.",
+      "start": 435
+    },
+    {
+      "id": 58,
+      "end": 444,
+      "confidence": "70",
+      "text": "To serve, despite the alliance was not to wait until the movie threads were available.",
+      "start": 438
+    },
+    {
+      "id": 59,
+      "end": 446,
+      "confidence": "70",
+      "text": "Or if it will fall away.",
+      "start": 445
+    },
+    {
+      "id": 60,
+      "end": 453,
+      "confidence": "70",
+      "text": "So with this kind of architecture utilizing our resources efficient.",
+      "start": 449
+    },
+    {
+      "id": 61,
+      "end": 455,
+      "confidence": "70",
+      "text": "This is the problem.",
+      "start": 454
+    },
+    {
+      "id": 62,
+      "end": 462,
+      "confidence": "70",
+      "text": "That's how applications built with frameworks like these.",
+      "start": 459
+    },
+    {
+      "id": 63,
+      "end": 478,
+      "confidence": "70",
+      "text": "Of course, it is not that it is possible to use its infrastructure. One will have to do extra work without. In contrast, don't applications or asynchronous by default, so we don't have to do anything extra.",
+      "start": 464
+    },
+    {
+      "id": 64,
+      "end": 493,
+      "confidence": "70",
+      "text": "Then a request arrives at single thread is used to handle the members if they need to create a database or thread doesn't nominate for the database or return the data.",
+      "start": 482
+    },
+    {
+      "id": 65,
+      "end": 498,
+      "confidence": "70",
+      "text": "Executing certain another.",
+      "start": 494
+    },
+    {
+      "id": 66,
+      "end": 505,
+      "confidence": "70",
+      "text": "When the database prefers the result, it will send a message in what we call an event queue.",
+      "start": 499
+    },
+    {
+      "id": 67,
+      "end": 513,
+      "confidence": "70",
+      "text": "Continuously monitoring this que in the background and it finds many men in this queue. It will take it out and process.",
+      "start": 506
+    },
+    {
+      "id": 68,
+      "end": 518,
+      "confidence": "70",
+      "text": "This kind of architecture makes me ideal for building applications.",
+      "start": 514
+    },
+    {
+      "id": 69,
+      "end": 520,
+      "confidence": "70",
+      "text": "This.",
+      "start": 519
+    },
+    {
+      "id": 70,
+      "end": 529,
+      "confidence": "70",
+      "text": "That's why applications are highly scalable.",
+      "start": 526
+    },
+    {
+      "id": 71,
+      "end": 539,
+      "confidence": "70",
+      "text": "Countries should not be used for CPU intensive applications like the PCI coding or an image manipulation service.",
+      "start": 530
+    },
+    {
+      "id": 72,
+      "end": 548,
+      "confidence": "70",
+      "text": "In this kind of applications we have a lot of calculations that should be done by CPU and field operations that personal finance system or the network.",
+      "start": 539
+    },
+    {
+      "id": 73,
+      "end": 566,
+      "confidence": "70",
+      "text": "Applications were single rider and performing the calculations will serve one client reported clients complete. And that's why no should not be used for CPU intensive applications. It should only be used for building data intensive and real time applications.",
+      "start": 550
+    },
+    {
+      "id": 74,
+      "end": 571,
+      "confidence": "70",
+      "text": "You know, Siri, next, I'm gonna show you how things go.",
+      "start": 568
+    },
+    {
+      "id": 75,
+      "end": 573,
+      "confidence": "70",
+      "text": "There is no.",
+      "start": 572
+    },
+    {
+      "id": 76,
+      "end": 577,
+      "confidence": "70",
+      "text": "Oh.",
+      "start": 576
+    },
+    {
+      "id": 77,
+      "end": 581,
+      "confidence": "70",
+      "text": "I'm gonna show you how to install.",
+      "start": 580
+    },
+    {
+      "id": 78,
+      "end": 586,
+      "confidence": "70",
+      "text": "Excellent.",
+      "start": 586
+    },
+    {
+      "id": 79,
+      "end": 589,
+      "confidence": "70",
+      "text": "See.",
+      "start": 588
+    },
+    {
+      "id": 80,
+      "end": 594,
+      "confidence": "70",
+      "text": "Springs.",
+      "start": 593
+    },
+    {
+      "id": 81,
+      "end": 600,
+      "confidence": "70",
+      "text": "You can see this machine running version 6.",
+      "start": 597
+    },
+    {
+      "id": 82,
+      "end": 609,
+      "confidence": "70",
+      "text": "Six point 10.3 is this an earlier version of the latest stable version?",
+      "start": 600
+    },
+    {
+      "id": 83,
+      "end": 609,
+      "confidence": "70",
+      "text": "Is version 8 on your mission?",
+      "start": 600
+    },
+    {
+      "id": 84,
+      "end": 609,
+      "confidence": "70",
+      "text": "Chances are you may not have known.",
+      "start": 600
+    },
+    {
+      "id": 85,
+      "end": 614,
+      "confidence": "70",
+      "text": "Either way, bunch of things. Don't think dispersion.",
+      "start": 612
+    },
+    {
+      "id": 86,
+      "end": 620,
+      "confidence": "70",
+      "text": "J.",
+      "start": 619
+    },
+    {
+      "id": 87,
+      "end": 624,
+      "confidence": "70",
+      "text": "Versions.",
+      "start": 623
+    },
+    {
+      "id": 88,
+      "end": 630,
+      "confidence": "70",
+      "text": "The latest version which is regarding users.",
+      "start": 626
+    },
+    {
+      "id": 89,
+      "end": 654,
+      "confidence": "70",
+      "text": "Because of this.",
+      "start": 654
+    },
+    {
+      "id": 90,
+      "end": 660,
+      "confidence": "70",
+      "text": "Discord.",
+      "start": 660
+    },
+    {
+      "id": 91,
+      "end": 669,
+      "confidence": "70",
+      "text": "So the code that we're going to write in the scores will continue to work in the future versions of.",
+      "start": 664
+    },
+    {
+      "id": 92,
+      "end": 675,
+      "confidence": "70",
+      "text": "You can always learn about the new features that probably every version.",
+      "start": 671
+    },
+    {
+      "id": 93,
+      "end": 686,
+      "confidence": "70",
+      "text": "Fancy pictures and focus on the fundamentals, so let's go ahead and install the latest version.",
+      "start": 679
+    },
+    {
+      "id": 94,
+      "end": 689,
+      "confidence": "70",
+      "text": "See here, they get the package.",
+      "start": 688
+    },
+    {
+      "id": 95,
+      "end": 695,
+      "confidence": "70",
+      "text": "Number.",
+      "start": 695
+    },
+    {
+      "id": 96,
+      "end": 700,
+      "confidence": "70",
+      "text": "Install.",
+      "start": 699
+    },
+    {
+      "id": 97,
+      "end": 702,
+      "confidence": "70",
+      "text": "Password.",
+      "start": 702
+    },
+    {
+      "id": 98,
+      "end": 709,
+      "confidence": "70",
+      "text": "The installation was complete.",
+      "start": 708
+    },
+    {
+      "id": 99,
+      "end": 711,
+      "confidence": "70",
+      "text": "It's only a few seconds.",
+      "start": 710
+    },
+    {
+      "id": 100,
+      "end": 715,
+      "confidence": "70",
+      "text": "Turn.",
+      "start": 714
+    },
+    {
+      "id": 101,
+      "end": 717,
+      "confidence": "70",
+      "text": "This version.",
+      "start": 717
+    },
+    {
+      "id": 102,
+      "end": 720,
+      "confidence": "70",
+      "text": "You can see it.",
+      "start": 719
+    },
+    {
+      "id": 103,
+      "end": 722,
+      "confidence": "70",
+      "text": "Version 8.9.",
+      "start": 721
+    },
+    {
+      "id": 104,
+      "end": 726,
+      "confidence": "70",
+      "text": "Thanks, we're gonna build our first application.",
+      "start": 723
+    },
+    {
+      "id": 105,
+      "end": 736,
+      "confidence": "70",
+      "text": "The show is something that is scheduled to make it touch it incarceration.",
+      "start": 731
+    },
+    {
+      "id": 106,
+      "end": 739,
+      "confidence": "70",
+      "text": "Question to you.",
+      "start": 738
+    },
+    {
+      "id": 107,
+      "end": 742,
+      "confidence": "70",
+      "text": "Experience sleeping options.",
+      "start": 740
+    },
+    {
+      "id": 108,
+      "end": 743,
+      "confidence": "70",
+      "text": "Every human being.",
+      "start": 742
+    },
+    {
+      "id": 109,
+      "end": 745,
+      "confidence": "70",
+      "text": "Experiences anywhere from people.",
+      "start": 743
+    },
+    {
+      "id": 110,
+      "end": 747,
+      "confidence": "70",
+      "text": "And he said.",
+      "start": 747
+    },
+    {
+      "id": 111,
+      "end": 749,
+      "confidence": "70",
+      "text": "Emotions like.",
+      "start": 749
+    },
+    {
+      "id": 112,
+      "end": 755,
+      "confidence": "70",
+      "text": "First known application.",
+      "start": 754
+    },
+    {
+      "id": 113,
+      "end": 757,
+      "confidence": "70",
+      "text": "Create a new folder.",
+      "start": 756
+    },
+    {
+      "id": 114,
+      "end": 760,
+      "confidence": "70",
+      "text": "1st.",
+      "start": 759
+    },
+    {
+      "id": 115,
+      "end": 762,
+      "confidence": "70",
+      "text": "That's good.",
+      "start": 761
+    },
+    {
+      "id": 116,
+      "end": 770,
+      "confidence": "70",
+      "text": "Open this cool man. Inside of Visual Studio code is my preferred code editor.",
+      "start": 765
+    },
+    {
+      "id": 117,
+      "end": 780,
+      "confidence": "70",
+      "text": "So this is Visual Studio code over vscode. Is a free powerful editor.",
+      "start": 775
+    },
+    {
+      "id": 118,
+      "end": 787,
+      "confidence": "70",
+      "text": "So here.",
+      "start": 786
+    },
+    {
+      "id": 119,
+      "end": 792,
+      "confidence": "70",
+      "text": "The genius.",
+      "start": 791
+    },
+    {
+      "id": 120,
+      "end": 800,
+      "confidence": "70",
+      "text": "JavaScript, just like the JavaScript let me write your browsers. So I'm going to define a function.",
+      "start": 795
+    },
+    {
+      "id": 121,
+      "end": 802,
+      "confidence": "70",
+      "text": "Say hello.",
+      "start": 801
+    },
+    {
+      "id": 122,
+      "end": 804,
+      "confidence": "70",
+      "text": "I think some parameter.",
+      "start": 803
+    },
+    {
+      "id": 123,
+      "end": 810,
+      "confidence": "70",
+      "text": "You can simply log some message with the console so hello.",
+      "start": 806
+    },
+    {
+      "id": 124,
+      "end": 811,
+      "confidence": "70",
+      "text": "Plus.",
+      "start": 811
+    },
+    {
+      "id": 125,
+      "end": 815,
+      "confidence": "70",
+      "text": "You can call this function like this.",
+      "start": 813
+    },
+    {
+      "id": 126,
+      "end": 819,
+      "confidence": "70",
+      "text": "Execute this code.",
+      "start": 818
+    },
+    {
+      "id": 127,
+      "end": 822,
+      "confidence": "70",
+      "text": "Go back to the terminal.",
+      "start": 821
+    },
+    {
+      "id": 128,
+      "end": 825,
+      "confidence": "70",
+      "text": "Passionate.",
+      "start": 824
+    },
+    {
+      "id": 129,
+      "end": 838,
+      "confidence": "70",
+      "text": "As I told you before, is a C++ program and includes programs JavaScript engine. So this is the JS file that we can pass through.",
+      "start": 829
+    },
+    {
+      "id": 130,
+      "end": 841,
+      "confidence": "70",
+      "text": "Execution.",
+      "start": 840
+    },
+    {
+      "id": 131,
+      "end": 844,
+      "confidence": "70",
+      "text": "So we can see we got Hello Marsh undercards.",
+      "start": 842
+    },
+    {
+      "id": 132,
+      "end": 848,
+      "confidence": "70",
+      "text": "Now let me show you something so it can be as good.",
+      "start": 845
+    },
+    {
+      "id": 133,
+      "end": 851,
+      "confidence": "70",
+      "text": "I'm going to really comment on this line.",
+      "start": 849
+    },
+    {
+      "id": 134,
+      "end": 853,
+      "confidence": "70",
+      "text": "Console.",
+      "start": 853
+    },
+    {
+      "id": 135,
+      "end": 858,
+      "confidence": "70",
+      "text": "Let's see what happens.",
+      "start": 857
+    },
+    {
+      "id": 136,
+      "end": 864,
+      "confidence": "70",
+      "text": "It's an exception.",
+      "start": 864
+    },
+    {
+      "id": 137,
+      "end": 876,
+      "confidence": "70",
+      "text": "These are part of the runtime environment that will get browsers.",
+      "start": 872
+    },
+    {
+      "id": 138,
+      "end": 885,
+      "confidence": "70",
+      "text": "Requires operating system, network and so on, and that's what we're gonna learn about in the next section.",
+      "start": 879
+    },
+    {
+      "id": 139,
+      "end": 888,
+      "confidence": "70",
+      "text": "Could you do this section?",
+      "start": 886
+    },
+    {
+      "id": 140,
+      "end": 888,
+      "confidence": "70",
+      "text": "Thank you for watching.",
+      "start": 886
+    },
+    {
+      "id": 141,
+      "end": 896,
+      "confidence": "70",
+      "text": "In this section, we're going to look at the module system.",
+      "start": 893
+    },
+    {
+      "id": 142,
+      "end": 902,
+      "confidence": "70",
+      "text": "You will learn what modules are, why we need them, and how they work throughout the section.",
+      "start": 897
+    },
+    {
+      "id": 143,
+      "end": 909,
+      "confidence": "70",
+      "text": "System system.",
+      "start": 908
+    },
+    {
+      "id": 144,
+      "end": 917,
+      "confidence": "70",
+      "text": "Let's get started.",
+      "start": 916
+    },
+    {
+      "id": 145,
+      "end": 924,
+      "confidence": "70",
+      "text": "So in that section.",
+      "start": 923
+    },
+    {
+      "id": 146,
+      "end": 933,
+      "confidence": "70",
+      "text": "Called.",
+      "start": 932
+    },
+    {
+      "id": 147,
+      "end": 940,
+      "confidence": "70",
+      "text": "Which means we can access it anywhere in any files.",
+      "start": 937
+    },
+    {
+      "id": 148,
+      "end": 954,
+      "confidence": "70",
+      "text": "Objects and functions there are also globally available. You know for example we have said time out which will probably seen before we used to call the motion after a delay.",
+      "start": 942
+    },
+    {
+      "id": 149,
+      "end": 959,
+      "confidence": "70",
+      "text": "JavaScript can use this.",
+      "start": 958
+    },
+    {
+      "id": 150,
+      "end": 960,
+      "confidence": "70",
+      "text": "The client.",
+      "start": 960
+    },
+    {
+      "id": 151,
+      "end": 963,
+      "confidence": "70",
+      "text": "Can use this browser.",
+      "start": 961
+    },
+    {
+      "id": 152,
+      "end": 969,
+      "confidence": "70",
+      "text": "Similarly.",
+      "start": 968
+    },
+    {
+      "id": 153,
+      "end": 971,
+      "confidence": "70",
+      "text": "Have said interval.",
+      "start": 969
+    },
+    {
+      "id": 154,
+      "end": 972,
+      "confidence": "70",
+      "text": "Which we.",
+      "start": 972
+    },
+    {
+      "id": 155,
+      "end": 973,
+      "confidence": "70",
+      "text": "Use to prepare.",
+      "start": 972
+    },
+    {
+      "id": 156,
+      "end": 976,
+      "confidence": "70",
+      "text": "For the function after a given delay.",
+      "start": 974
+    },
+    {
+      "id": 157,
+      "end": 977,
+      "confidence": "70",
+      "text": "You also have.",
+      "start": 977
+    },
+    {
+      "id": 158,
+      "end": 979,
+      "confidence": "70",
+      "text": "Clear interval.",
+      "start": 978
+    },
+    {
+      "id": 159,
+      "end": 981,
+      "confidence": "70",
+      "text": "Which means to stop that function from.",
+      "start": 979
+    },
+    {
+      "id": 160,
+      "end": 982,
+      "confidence": "70",
+      "text": "Being called.",
+      "start": 981
+    },
+    {
+      "id": 161,
+      "end": 984,
+      "confidence": "70",
+      "text": "Objects.",
+      "start": 984
+    },
+    {
+      "id": 162,
+      "end": 985,
+      "confidence": "70",
+      "text": "In.",
+      "start": 984
+    },
+    {
+      "id": 163,
+      "end": 985,
+      "confidence": "70",
+      "text": "JavaScript.",
+      "start": 985
+    },
+    {
+      "id": 164,
+      "end": 990,
+      "confidence": "70",
+      "text": "Later in.",
+      "start": 990
+    },
+    {
+      "id": 165,
+      "end": 990,
+      "confidence": "70",
+      "text": "This.",
+      "start": 990
+    },
+    {
+      "id": 166,
+      "end": 991,
+      "confidence": "70",
+      "text": "Section.",
+      "start": 990
+    },
+    {
+      "id": 167,
+      "end": 994,
+      "confidence": "70",
+      "text": "We have this.",
+      "start": 993
+    },
+    {
+      "id": 168,
+      "end": 995,
+      "confidence": "70",
+      "text": "Window object.",
+      "start": 994
+    },
+    {
+      "id": 169,
+      "end": 997,
+      "confidence": "70",
+      "text": "That presents or.",
+      "start": 995
+    },
+    {
+      "id": 170,
+      "end": 999,
+      "confidence": "70",
+      "text": "Global scope all the credentials and.",
+      "start": 997
+    },
+    {
+      "id": 171,
+      "end": 1000,
+      "confidence": "70",
+      "text": "Functions that.",
+      "start": 999
+    },
+    {
+      "id": 172,
+      "end": 1001,
+      "confidence": "70",
+      "text": "Are defined nobody.",
+      "start": 1000
+    },
+    {
+      "id": 173,
+      "end": 1002,
+      "confidence": "70",
+      "text": "Can access them.",
+      "start": 1001
+    },
+    {
+      "id": 174,
+      "end": 1003,
+      "confidence": "70",
+      "text": "Via.",
+      "start": 1003
+    },
+    {
+      "id": 175,
+      "end": 1003,
+      "confidence": "70",
+      "text": "This.",
+      "start": 1003
+    },
+    {
+      "id": 176,
+      "end": 1005,
+      "confidence": "70",
+      "text": "Window object so we can.",
+      "start": 1003
+    },
+    {
+      "id": 177,
+      "end": 1005,
+      "confidence": "70",
+      "text": "Call.",
+      "start": 1005
+    },
+    {
+      "id": 178,
+      "end": 1006,
+      "confidence": "70",
+      "text": "Window.",
+      "start": 1005
+    },
+    {
+      "id": 179,
+      "end": 1007,
+      "confidence": "70",
+      "text": "Console.",
+      "start": 1006
+    },
+    {
+      "id": 180,
+      "end": 1009,
+      "confidence": "70",
+      "text": "Or.",
+      "start": 1009
+    },
+    {
+      "id": 181,
+      "end": 1009,
+      "confidence": "70",
+      "text": "Simply just.",
+      "start": 1009
+    },
+    {
+      "id": 182,
+      "end": 1010,
+      "confidence": "70",
+      "text": "Console.",
+      "start": 1009
+    },
+    {
+      "id": 183,
+      "end": 1015,
+      "confidence": "70",
+      "text": "The job has been edging. Prefix the statement when we go.",
+      "start": 1011
+    },
+    {
+      "id": 184,
+      "end": 1016,
+      "confidence": "70",
+      "text": "On console.",
+      "start": 1016
+    },
+    {
+      "id": 185,
+      "end": 1029,
+      "confidence": "70",
+      "text": "Connect.",
+      "start": 1029
+    },
+    {
+      "id": 186,
+      "end": 1032,
+      "confidence": "70",
+      "text": "By the same token.",
+      "start": 1031
+    },
+    {
+      "id": 187,
+      "end": 1033,
+      "confidence": "70",
+      "text": "When they declare?",
+      "start": 1032
+    },
+    {
+      "id": 188,
+      "end": 1034,
+      "confidence": "70",
+      "text": "Everyone.",
+      "start": 1033
+    },
+    {
+      "id": 189,
+      "end": 1034,
+      "confidence": "70",
+      "text": "Would say.",
+      "start": 1034
+    },
+    {
+      "id": 190,
+      "end": 1035,
+      "confidence": "70",
+      "text": "Message.",
+      "start": 1035
+    },
+    {
+      "id": 191,
+      "end": 1039,
+      "confidence": "70",
+      "text": "Is also available.",
+      "start": 1038
+    },
+    {
+      "id": 192,
+      "end": 1045,
+      "confidence": "70",
+      "text": "In the last section.",
+      "start": 1044
+    },
+    {
+      "id": 193,
+      "end": 1067,
+      "confidence": "70",
+      "text": "Easier to use the shorthand.",
+      "start": 1065
+    },
+    {
+      "id": 194,
+      "end": 1067,
+      "confidence": "70",
+      "text": "Instead of.",
+      "start": 1067
+    },
+    {
+      "id": 195,
+      "end": 1071,
+      "confidence": "70",
+      "text": "One thing you need to know about.",
+      "start": 1070
+    },
+    {
+      "id": 196,
+      "end": 1073,
+      "confidence": "70",
+      "text": "Is that these people?",
+      "start": 1072
+    },
+    {
+      "id": 197,
+      "end": 1074,
+      "confidence": "70",
+      "text": "That were defined here.",
+      "start": 1073
+    },
+    {
+      "id": 198,
+      "end": 1076,
+      "confidence": "70",
+      "text": "100.",
+      "start": 1076
+    },
+    {
+      "id": 199,
+      "end": 1080,
+      "confidence": "70",
+      "text": "Search.",
+      "start": 1079
     }
   ],
   "paragraphs": [
     {
       "id": 0,
-      "end": 2,
-      "start": 0,
-      "speaker": "bk"
+      "end": 17,
+      "start": 13,
+      "speaker": "Bharathi M"
     },
     {
       "id": 1,
-      "end": 22,
-      "start": 19,
-      "speaker": "Karthik"
+      "end": 24,
+      "start": 21,
+      "speaker": "Kannan"
     },
     {
       "id": 2,
       "end": 26,
-      "start": 24,
-      "speaker": "Karthik"
+      "start": 26,
+      "speaker": "Bk"
     },
     {
       "id": 3,
-      "end": 40,
-      "start": 28,
-      "speaker": "Karthik"
+      "end": 33,
+      "start": 30,
+      "speaker": 1
     },
     {
       "id": 4,
-      "end": 52,
-      "start": 41,
-      "speaker": "Karthik"
+      "end": 46,
+      "start": 40,
+      "speaker": 1
     },
     {
       "id": 5,
-      "end": 56,
-      "start": 53,
-      "speaker": "Karthik"
+      "end": 50,
+      "start": 46,
+      "speaker": 1
     },
     {
       "id": 6,
-      "end": 70,
-      "start": 58,
-      "speaker": "Karthik"
+      "end": 55,
+      "start": 51,
+      "speaker": 1
     },
     {
       "id": 7,
-      "end": 77,
-      "start": 71,
-      "speaker": "Karthik"
+      "end": 64,
+      "start": 56,
+      "speaker": 1
     },
     {
       "id": 8,
-      "end": 95,
-      "start": 78,
-      "speaker": "Karthik"
+      "end": 72,
+      "start": 70,
+      "speaker": 1
     },
     {
       "id": 9,
-      "end": 118,
-      "start": 95,
-      "speaker": "Karthik"
+      "end": 75,
+      "start": 74,
+      "speaker": 1
     },
     {
       "id": 10,
-      "end": 137,
-      "start": 118,
-      "speaker": "bk"
+      "end": 81,
+      "start": 78,
+      "speaker": 1
     },
     {
       "id": 11,
-      "end": 169,
-      "start": 139,
-      "speaker": "bk"
+      "end": 87,
+      "start": 86,
+      "speaker": 1
     },
     {
       "id": 12,
-      "end": 181,
-      "start": 170,
-      "speaker": "bk"
+      "end": 97,
+      "start": 96,
+      "speaker": 1
     },
     {
       "id": 13,
-      "end": 197,
-      "start": 181,
-      "speaker": "bk"
+      "end": 102,
+      "start": 100,
+      "speaker": 1
     },
     {
       "id": 14,
-      "end": 229,
-      "start": 198,
-      "speaker": "bk"
+      "end": 108,
+      "start": 107,
+      "speaker": 1
     },
     {
       "id": 15,
-      "end": 236,
-      "start": 229,
-      "speaker": "bk"
+      "end": 119,
+      "start": 117,
+      "speaker": 1
+    },
+    {
+      "id": 16,
+      "end": 122,
+      "start": 121,
+      "speaker": 1
+    },
+    {
+      "id": 17,
+      "end": 133,
+      "start": 132,
+      "speaker": 2
+    },
+    {
+      "id": 18,
+      "end": 135,
+      "start": 134,
+      "speaker": 2
+    },
+    {
+      "id": 19,
+      "end": 140,
+      "start": 139,
+      "speaker": 2
+    },
+    {
+      "id": 20,
+      "end": 142,
+      "start": 141,
+      "speaker": 2
+    },
+    {
+      "id": 21,
+      "end": 146,
+      "start": 146,
+      "speaker": 1
+    },
+    {
+      "id": 22,
+      "end": 149,
+      "start": 149,
+      "speaker": 2
+    },
+    {
+      "id": 23,
+      "end": 195,
+      "start": 194,
+      "speaker": 2
+    },
+    {
+      "id": 24,
+      "end": 199,
+      "start": 199,
+      "speaker": 3
+    },
+    {
+      "id": 25,
+      "end": 200,
+      "start": 199,
+      "speaker": 1
+    },
+    {
+      "id": 26,
+      "end": 222,
+      "start": 222,
+      "speaker": 2
+    },
+    {
+      "id": 27,
+      "end": 245,
+      "start": 240,
+      "speaker": 1
+    },
+    {
+      "id": 28,
+      "end": 249,
+      "start": 248,
+      "speaker": 1
+    },
+    {
+      "id": 29,
+      "end": 257,
+      "start": 252,
+      "speaker": 1
+    },
+    {
+      "id": 30,
+      "end": 260,
+      "start": 259,
+      "speaker": 1
+    },
+    {
+      "id": 31,
+      "end": 266,
+      "start": 266,
+      "speaker": 1
+    },
+    {
+      "id": 32,
+      "end": 281,
+      "start": 280,
+      "speaker": 1
+    },
+    {
+      "id": 33,
+      "end": 286,
+      "start": 285,
+      "speaker": 1
+    },
+    {
+      "id": 34,
+      "end": 289,
+      "start": 288,
+      "speaker": 1
+    },
+    {
+      "id": 35,
+      "end": 298,
+      "start": 298,
+      "speaker": 1
+    },
+    {
+      "id": 36,
+      "end": 305,
+      "start": 300,
+      "speaker": 1
+    },
+    {
+      "id": 37,
+      "end": 307,
+      "start": 306,
+      "speaker": 1
+    },
+    {
+      "id": 38,
+      "end": 319,
+      "start": 316,
+      "speaker": 1
+    },
+    {
+      "id": 39,
+      "end": 322,
+      "start": 320,
+      "speaker": 1
+    },
+    {
+      "id": 40,
+      "end": 324,
+      "start": 324,
+      "speaker": 1
+    },
+    {
+      "id": 41,
+      "end": 332,
+      "start": 328,
+      "speaker": 1
+    },
+    {
+      "id": 42,
+      "end": 337,
+      "start": 334,
+      "speaker": 1
+    },
+    {
+      "id": 43,
+      "end": 346,
+      "start": 338,
+      "speaker": 1
+    },
+    {
+      "id": 44,
+      "end": 353,
+      "start": 348,
+      "speaker": 1
+    },
+    {
+      "id": 45,
+      "end": 360,
+      "start": 354,
+      "speaker": 1
+    },
+    {
+      "id": 46,
+      "end": 362,
+      "start": 361,
+      "speaker": 1
+    },
+    {
+      "id": 47,
+      "end": 369,
+      "start": 363,
+      "speaker": 1
+    },
+    {
+      "id": 48,
+      "end": 371,
+      "start": 370,
+      "speaker": 1
+    },
+    {
+      "id": 49,
+      "end": 377,
+      "start": 375,
+      "speaker": 1
+    },
+    {
+      "id": 50,
+      "end": 383,
+      "start": 382,
+      "speaker": 1
+    },
+    {
+      "id": 51,
+      "end": 394,
+      "start": 388,
+      "speaker": 1
+    },
+    {
+      "id": 52,
+      "end": 394,
+      "start": 388,
+      "speaker": 1
+    },
+    {
+      "id": 53,
+      "end": 407,
+      "start": 397,
+      "speaker": 1
+    },
+    {
+      "id": 54,
+      "end": 421,
+      "start": 413,
+      "speaker": 1
+    },
+    {
+      "id": 55,
+      "end": 424,
+      "start": 423,
+      "speaker": 1
+    },
+    {
+      "id": 56,
+      "end": 429,
+      "start": 429,
+      "speaker": 1
+    },
+    {
+      "id": 57,
+      "end": 435,
+      "start": 435,
+      "speaker": 1
+    },
+    {
+      "id": 58,
+      "end": 444,
+      "start": 438,
+      "speaker": 1
+    },
+    {
+      "id": 59,
+      "end": 446,
+      "start": 445,
+      "speaker": 2
+    },
+    {
+      "id": 60,
+      "end": 453,
+      "start": 449,
+      "speaker": 1
+    },
+    {
+      "id": 61,
+      "end": 455,
+      "start": 454,
+      "speaker": 1
+    },
+    {
+      "id": 62,
+      "end": 462,
+      "start": 459,
+      "speaker": 1
+    },
+    {
+      "id": 63,
+      "end": 478,
+      "start": 464,
+      "speaker": 1
+    },
+    {
+      "id": 64,
+      "end": 493,
+      "start": 482,
+      "speaker": 1
+    },
+    {
+      "id": 65,
+      "end": 498,
+      "start": 494,
+      "speaker": 1
+    },
+    {
+      "id": 66,
+      "end": 505,
+      "start": 499,
+      "speaker": 1
+    },
+    {
+      "id": 67,
+      "end": 513,
+      "start": 506,
+      "speaker": 1
+    },
+    {
+      "id": 68,
+      "end": 518,
+      "start": 514,
+      "speaker": 1
+    },
+    {
+      "id": 69,
+      "end": 520,
+      "start": 519,
+      "speaker": 1
+    },
+    {
+      "id": 70,
+      "end": 529,
+      "start": 526,
+      "speaker": 1
+    },
+    {
+      "id": 71,
+      "end": 539,
+      "start": 530,
+      "speaker": 1
+    },
+    {
+      "id": 72,
+      "end": 548,
+      "start": 539,
+      "speaker": 1
+    },
+    {
+      "id": 73,
+      "end": 566,
+      "start": 550,
+      "speaker": 1
+    },
+    {
+      "id": 74,
+      "end": 571,
+      "start": 568,
+      "speaker": 1
+    },
+    {
+      "id": 75,
+      "end": 573,
+      "start": 572,
+      "speaker": 1
+    },
+    {
+      "id": 76,
+      "end": 577,
+      "start": 576,
+      "speaker": 1
+    },
+    {
+      "id": 77,
+      "end": 581,
+      "start": 580,
+      "speaker": 1
+    },
+    {
+      "id": 78,
+      "end": 586,
+      "start": 586,
+      "speaker": 1
+    },
+    {
+      "id": 79,
+      "end": 589,
+      "start": 588,
+      "speaker": 1
+    },
+    {
+      "id": 80,
+      "end": 594,
+      "start": 593,
+      "speaker": 1
+    },
+    {
+      "id": 81,
+      "end": 600,
+      "start": 597,
+      "speaker": 1
+    },
+    {
+      "id": 82,
+      "end": 609,
+      "start": 600,
+      "speaker": 1
+    },
+    {
+      "id": 83,
+      "end": 609,
+      "start": 600,
+      "speaker": 1
+    },
+    {
+      "id": 84,
+      "end": 609,
+      "start": 600,
+      "speaker": 1
+    },
+    {
+      "id": 85,
+      "end": 614,
+      "start": 612,
+      "speaker": 1
+    },
+    {
+      "id": 86,
+      "end": 620,
+      "start": 619,
+      "speaker": 1
+    },
+    {
+      "id": 87,
+      "end": 624,
+      "start": 623,
+      "speaker": 1
+    },
+    {
+      "id": 88,
+      "end": 630,
+      "start": 626,
+      "speaker": 1
+    },
+    {
+      "id": 89,
+      "end": 654,
+      "start": 654,
+      "speaker": 1
+    },
+    {
+      "id": 90,
+      "end": 660,
+      "start": 660,
+      "speaker": 1
+    },
+    {
+      "id": 91,
+      "end": 669,
+      "start": 664,
+      "speaker": 1
+    },
+    {
+      "id": 92,
+      "end": 675,
+      "start": 671,
+      "speaker": 1
+    },
+    {
+      "id": 93,
+      "end": 686,
+      "start": 679,
+      "speaker": 1
+    },
+    {
+      "id": 94,
+      "end": 689,
+      "start": 688,
+      "speaker": 1
+    },
+    {
+      "id": 95,
+      "end": 695,
+      "start": 695,
+      "speaker": 1
+    },
+    {
+      "id": 96,
+      "end": 700,
+      "start": 699,
+      "speaker": 1
+    },
+    {
+      "id": 97,
+      "end": 702,
+      "start": 702,
+      "speaker": 1
+    },
+    {
+      "id": 98,
+      "end": 709,
+      "start": 708,
+      "speaker": 1
+    },
+    {
+      "id": 99,
+      "end": 711,
+      "start": 710,
+      "speaker": 1
+    },
+    {
+      "id": 100,
+      "end": 715,
+      "start": 714,
+      "speaker": 1
+    },
+    {
+      "id": 101,
+      "end": 717,
+      "start": 717,
+      "speaker": 1
+    },
+    {
+      "id": 102,
+      "end": 720,
+      "start": 719,
+      "speaker": 1
+    },
+    {
+      "id": 103,
+      "end": 722,
+      "start": 721,
+      "speaker": 1
+    },
+    {
+      "id": 104,
+      "end": 726,
+      "start": 723,
+      "speaker": 1
+    },
+    {
+      "id": 105,
+      "end": 736,
+      "start": 731,
+      "speaker": 2
+    },
+    {
+      "id": 106,
+      "end": 739,
+      "start": 738,
+      "speaker": 1
+    },
+    {
+      "id": 107,
+      "end": 742,
+      "start": 740,
+      "speaker": 1
+    },
+    {
+      "id": 108,
+      "end": 743,
+      "start": 742,
+      "speaker": 2
+    },
+    {
+      "id": 109,
+      "end": 745,
+      "start": 743,
+      "speaker": 1
+    },
+    {
+      "id": 110,
+      "end": 747,
+      "start": 747,
+      "speaker": 1
+    },
+    {
+      "id": 111,
+      "end": 749,
+      "start": 749,
+      "speaker": 1
+    },
+    {
+      "id": 112,
+      "end": 755,
+      "start": 754,
+      "speaker": 1
+    },
+    {
+      "id": 113,
+      "end": 757,
+      "start": 756,
+      "speaker": 1
+    },
+    {
+      "id": 114,
+      "end": 760,
+      "start": 759,
+      "speaker": 1
+    },
+    {
+      "id": 115,
+      "end": 762,
+      "start": 761,
+      "speaker": 1
+    },
+    {
+      "id": 116,
+      "end": 770,
+      "start": 765,
+      "speaker": 1
+    },
+    {
+      "id": 117,
+      "end": 780,
+      "start": 775,
+      "speaker": 1
+    },
+    {
+      "id": 118,
+      "end": 787,
+      "start": 786,
+      "speaker": 1
+    },
+    {
+      "id": 119,
+      "end": 792,
+      "start": 791,
+      "speaker": 1
+    },
+    {
+      "id": 120,
+      "end": 800,
+      "start": 795,
+      "speaker": 1
+    },
+    {
+      "id": 121,
+      "end": 802,
+      "start": 801,
+      "speaker": 1
+    },
+    {
+      "id": 122,
+      "end": 804,
+      "start": 803,
+      "speaker": 1
+    },
+    {
+      "id": 123,
+      "end": 810,
+      "start": 806,
+      "speaker": 1
+    },
+    {
+      "id": 124,
+      "end": 811,
+      "start": 811,
+      "speaker": 1
+    },
+    {
+      "id": 125,
+      "end": 815,
+      "start": 813,
+      "speaker": 1
+    },
+    {
+      "id": 126,
+      "end": 819,
+      "start": 818,
+      "speaker": 1
+    },
+    {
+      "id": 127,
+      "end": 822,
+      "start": 821,
+      "speaker": 1
+    },
+    {
+      "id": 128,
+      "end": 825,
+      "start": 824,
+      "speaker": 1
+    },
+    {
+      "id": 129,
+      "end": 838,
+      "start": 829,
+      "speaker": 1
+    },
+    {
+      "id": 130,
+      "end": 841,
+      "start": 840,
+      "speaker": 1
+    },
+    {
+      "id": 131,
+      "end": 844,
+      "start": 842,
+      "speaker": 1
+    },
+    {
+      "id": 132,
+      "end": 848,
+      "start": 845,
+      "speaker": 1
+    },
+    {
+      "id": 133,
+      "end": 851,
+      "start": 849,
+      "speaker": 1
+    },
+    {
+      "id": 134,
+      "end": 853,
+      "start": 853,
+      "speaker": 1
+    },
+    {
+      "id": 135,
+      "end": 858,
+      "start": 857,
+      "speaker": 1
+    },
+    {
+      "id": 136,
+      "end": 864,
+      "start": 864,
+      "speaker": 1
+    },
+    {
+      "id": 137,
+      "end": 876,
+      "start": 872,
+      "speaker": 1
+    },
+    {
+      "id": 138,
+      "end": 885,
+      "start": 879,
+      "speaker": 1
+    },
+    {
+      "id": 139,
+      "end": 888,
+      "start": 886,
+      "speaker": 1
+    },
+    {
+      "id": 140,
+      "end": 888,
+      "start": 886,
+      "speaker": 1
+    },
+    {
+      "id": 141,
+      "end": 896,
+      "start": 893,
+      "speaker": 1
+    },
+    {
+      "id": 142,
+      "end": 902,
+      "start": 897,
+      "speaker": 1
+    },
+    {
+      "id": 143,
+      "end": 909,
+      "start": 908,
+      "speaker": 1
+    },
+    {
+      "id": 144,
+      "end": 917,
+      "start": 916,
+      "speaker": 1
+    },
+    {
+      "id": 145,
+      "end": 924,
+      "start": 923,
+      "speaker": 1
+    },
+    {
+      "id": 146,
+      "end": 933,
+      "start": 932,
+      "speaker": 1
+    },
+    {
+      "id": 147,
+      "end": 940,
+      "start": 937,
+      "speaker": 1
+    },
+    {
+      "id": 148,
+      "end": 954,
+      "start": 942,
+      "speaker": 1
+    },
+    {
+      "id": 149,
+      "end": 959,
+      "start": 958,
+      "speaker": 1
+    },
+    {
+      "id": 150,
+      "end": 960,
+      "start": 960,
+      "speaker": 1
+    },
+    {
+      "id": 151,
+      "end": 963,
+      "start": 961,
+      "speaker": 2
+    },
+    {
+      "id": 152,
+      "end": 969,
+      "start": 968,
+      "speaker": 1
+    },
+    {
+      "id": 153,
+      "end": 971,
+      "start": 969,
+      "speaker": 3
+    },
+    {
+      "id": 154,
+      "end": 972,
+      "start": 972,
+      "speaker": 4
+    },
+    {
+      "id": 155,
+      "end": 973,
+      "start": 972,
+      "speaker": 5
+    },
+    {
+      "id": 156,
+      "end": 976,
+      "start": 974,
+      "speaker": 1
+    },
+    {
+      "id": 157,
+      "end": 977,
+      "start": 977,
+      "speaker": 3
+    },
+    {
+      "id": 158,
+      "end": 979,
+      "start": 978,
+      "speaker": 1
+    },
+    {
+      "id": 159,
+      "end": 981,
+      "start": 979,
+      "speaker": 4
+    },
+    {
+      "id": 160,
+      "end": 982,
+      "start": 981,
+      "speaker": 2
+    },
+    {
+      "id": 161,
+      "end": 984,
+      "start": 984,
+      "speaker": 1
+    },
+    {
+      "id": 162,
+      "end": 985,
+      "start": 984,
+      "speaker": 3
+    },
+    {
+      "id": 163,
+      "end": 985,
+      "start": 985,
+      "speaker": 1
+    },
+    {
+      "id": 164,
+      "end": 990,
+      "start": 990,
+      "speaker": 3
+    },
+    {
+      "id": 165,
+      "end": 990,
+      "start": 990,
+      "speaker": 1
+    },
+    {
+      "id": 166,
+      "end": 991,
+      "start": 990,
+      "speaker": 3
+    },
+    {
+      "id": 167,
+      "end": 994,
+      "start": 993,
+      "speaker": 4
+    },
+    {
+      "id": 168,
+      "end": 995,
+      "start": 994,
+      "speaker": 1
+    },
+    {
+      "id": 169,
+      "end": 997,
+      "start": 995,
+      "speaker": 3
+    },
+    {
+      "id": 170,
+      "end": 999,
+      "start": 997,
+      "speaker": 4
+    },
+    {
+      "id": 171,
+      "end": 1000,
+      "start": 999,
+      "speaker": 1
+    },
+    {
+      "id": 172,
+      "end": 1001,
+      "start": 1000,
+      "speaker": 5
+    },
+    {
+      "id": 173,
+      "end": 1002,
+      "start": 1001,
+      "speaker": 3
+    },
+    {
+      "id": 174,
+      "end": 1003,
+      "start": 1003,
+      "speaker": 4
+    },
+    {
+      "id": 175,
+      "end": 1003,
+      "start": 1003,
+      "speaker": 5
+    },
+    {
+      "id": 176,
+      "end": 1005,
+      "start": 1003,
+      "speaker": 4
+    },
+    {
+      "id": 177,
+      "end": 1005,
+      "start": 1005,
+      "speaker": 3
+    },
+    {
+      "id": 178,
+      "end": 1006,
+      "start": 1005,
+      "speaker": 5
+    },
+    {
+      "id": 179,
+      "end": 1007,
+      "start": 1006,
+      "speaker": 4
+    },
+    {
+      "id": 180,
+      "end": 1009,
+      "start": 1009,
+      "speaker": 3
+    },
+    {
+      "id": 181,
+      "end": 1009,
+      "start": 1009,
+      "speaker": 1
+    },
+    {
+      "id": 182,
+      "end": 1010,
+      "start": 1009,
+      "speaker": 4
+    },
+    {
+      "id": 183,
+      "end": 1015,
+      "start": 1011,
+      "speaker": 1
+    },
+    {
+      "id": 184,
+      "end": 1016,
+      "start": 1016,
+      "speaker": 4
+    },
+    {
+      "id": 185,
+      "end": 1029,
+      "start": 1029,
+      "speaker": 5
+    },
+    {
+      "id": 186,
+      "end": 1032,
+      "start": 1031,
+      "speaker": 3
+    },
+    {
+      "id": 187,
+      "end": 1033,
+      "start": 1032,
+      "speaker": 5
+    },
+    {
+      "id": 188,
+      "end": 1034,
+      "start": 1033,
+      "speaker": 1
+    },
+    {
+      "id": 189,
+      "end": 1034,
+      "start": 1034,
+      "speaker": 3
+    },
+    {
+      "id": 190,
+      "end": 1035,
+      "start": 1035,
+      "speaker": 4
+    },
+    {
+      "id": 191,
+      "end": 1039,
+      "start": 1038,
+      "speaker": 3
+    },
+    {
+      "id": 192,
+      "end": 1045,
+      "start": 1044,
+      "speaker": 1
+    },
+    {
+      "id": 193,
+      "end": 1067,
+      "start": 1065,
+      "speaker": 4
+    },
+    {
+      "id": 194,
+      "end": 1067,
+      "start": 1067,
+      "speaker": 1
+    },
+    {
+      "id": 195,
+      "end": 1071,
+      "start": 1070,
+      "speaker": 5
+    },
+    {
+      "id": 196,
+      "end": 1073,
+      "start": 1072,
+      "speaker": 3
+    },
+    {
+      "id": 197,
+      "end": 1074,
+      "start": 1073,
+      "speaker": 5
+    },
+    {
+      "id": 198,
+      "end": 1076,
+      "start": 1076,
+      "speaker": 2
+    },
+    {
+      "id": 199,
+      "end": 1080,
+      "start": 1079,
+      "speaker": 2
     }
   ]
 }
