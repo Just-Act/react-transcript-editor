@@ -27,7 +27,7 @@ class TimedTextEditor extends React.Component {
     }
   }
 
-  componentDidMount() {
+  componentDidMount = () => {
     this.loadData()
   }
 
@@ -76,7 +76,7 @@ class TimedTextEditor extends React.Component {
           // resets timeout
           clearTimeout(this.plauseWhileTypingTimeOut)
           this.plauseWhileTypingTimeOut = setTimeout(
-            function() {
+            function () {
               // after timeout starts playing again
               this.props.playMedia(true)
             }.bind(this),
@@ -166,9 +166,9 @@ class TimedTextEditor extends React.Component {
     }
   }
 
-  loadData() {
+  loadData = () => {
     if (this.props.transcriptData !== null) {
-      
+
       const blocks = sttJsonAdapter(
         this.props.transcriptData,
         this.props.sttJsonType
@@ -531,10 +531,10 @@ class TimedTextEditor extends React.Component {
       <section
         className={style.editor}
         onDoubleClick={this.handleDoubleClick}
-        // TODO: decide if on mobile want to have a way to "click" on words
-        // to play corresponding media
-        // a double tap would be the ideal solution
-        // onTouchStart={ event => this.handleDoubleClick(event) }
+      // TODO: decide if on mobile want to have a way to "click" on words
+      // to play corresponding media
+      // a double tap would be the ideal solution
+      // onTouchStart={ event => this.handleDoubleClick(event) }
       >
         <style scoped>
           {`span.Word[data-start="${currentWord.start}"] { background-color: ${highlightColour}; text-shadow: 0 0 0.01px black }`}
