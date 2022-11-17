@@ -225,7 +225,7 @@ class WrapperBlock extends React.Component {
 
           {this.props.blockProps.showTimecodes ? timecodeElement : ""}{" "}{" "}{" "}
 
-          {this.state.confidence ? this.state.confidence : ""}{" "}{" "}{" "}
+          {this.state.confidence ? `${this.state.confidence}%` : ""}{" "}{" "}{" "}
 
           {this.state.id}
 
