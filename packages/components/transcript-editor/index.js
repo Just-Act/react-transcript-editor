@@ -19,7 +19,7 @@ const exportOptionsList = [
     value: "txtspeakertimecodes",
     label: "Text file - with Speakers and Timecodes",
   },
-  { value: "docx", label: "MS Word" },
+  { value: "docx", label: "MS Word without line numbers" },
   { value: "docxwithlineno", label: "MS Word with line numbers" },
 ]
 
