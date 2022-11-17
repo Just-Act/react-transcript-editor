@@ -43,7 +43,7 @@ class App extends React.Component {
   }
 
   loadDemo = () => {
-    if(isPresentInLocalStorage(DEMO_MEDIA_URL)){
+    if (isPresentInLocalStorage(DEMO_MEDIA_URL)) {
       const transcriptDataFromLocalStorage = loadLocalSavedData(DEMO_MEDIA_URL)
       this.setState({
         transcriptData: transcriptDataFromLocalStorage,
@@ -52,15 +52,15 @@ class App extends React.Component {
         sttType: 'draftjs'
       });
     }
-    else{
-       this.setState({
+    else {
+      this.setState({
         transcriptData: DEMO_TRANSCRIPT,
         mediaUrl: DEMO_MEDIA_URL,
         title: DEMO_TITLE,
         sttType: "digitalpaperedit"
       });
     }
-   
+
   };
 
   // https://stackoverflow.com/questions/8885701/play-local-hard-drive-video-file-with-html5-video-tag
@@ -185,7 +185,7 @@ class App extends React.Component {
     const { data, ext } = newAutoSaveData;
     this.setState({ autoSaveData: data, autoSaveExtension: ext });
     // Saving to local storage 
-    localSave(this.state.mediaUrl, this.state.fileName, data);
+    // localSave(this.state.mediaUrl, this.state.fileName, data);
   };
   render() {
     return (
@@ -322,7 +322,7 @@ class App extends React.Component {
           ref={this.transcriptEditorRef}
           handleAutoSaveChanges={this.handleAutoSaveChanges}
           autoSaveContentType={this.state.autoSaveContentType}
-          mediaType={ 'audio' }
+          mediaType={'audio'}
         />
 
         <section style={{ height: "250px", width: "50%", float: "left" }}>
