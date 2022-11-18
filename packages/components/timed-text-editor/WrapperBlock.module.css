@@ -18,23 +18,32 @@ to get text out of component with timecodes and speaker names in the interim */
 @media (min-width: 768px) {
   .markers {
     display: grid;
-    grid-template-columns: repeat(4, minmax(65px, 20%));
+    grid-template-columns: 3fr 3fr 2fr 61% 15%;
+    /* grid-template-columns: repeat(4, minmax(65px, 20%)); */
     /* grid-template-columns: repeat(4, minmax(90px, 20%)); */
     /* grid-template-columns: 9fr 7fr 2fr */
     /* grid-template-columns: 130px 90px 20px; */
+  }
+
+  .container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20%;
   }
 
   .WrapperBlock {
     margin-bottom: 1em;
     overflow: hidden;
     display: grid;
-    grid-template-columns: [col-speaker] minmax(180px, 18%) [col-text] minmax(
+    /* grid-template-columns: 1fr 2fr 3fr 4fr 5fr; */
+    /* grid-template-columns: [col-speaker] minmax(180px, 18%) [col-text] minmax(
         50%,
         81%
-      );
+      ); */
     grid-column-gap: 2%;
-    justify-content: center;
-    align-content: center;
+    /* justify-content: center;
+    align-content: center; */
   }
 
   .speaker {
