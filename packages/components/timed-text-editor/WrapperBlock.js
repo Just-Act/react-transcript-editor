@@ -215,12 +215,17 @@ class WrapperBlock extends React.Component {
       </span>
     );
 
+    const editor = (
+      <span className={style.text}>
+        <EditorBlock {...this.props} />
+      </span>
+    )
     return (
       <div className={style.WrapperBlock}>
         <div
           // className={[style.markers, style.unselectable].join(" ")}
           className={style.markers}
-          contentEditable={false}
+        // contentEditable={false}
         >
           {this.props.blockProps.showSpeakers ? speakerElement : ""}
 
@@ -230,7 +235,7 @@ class WrapperBlock extends React.Component {
 
           {this.state.id}{" "} {" "}
 
-          <EditorBlock {...this.props} />
+          {editor}
         </div>
       </div >
     );

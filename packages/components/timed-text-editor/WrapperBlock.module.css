@@ -18,7 +18,8 @@ to get text out of component with timecodes and speaker names in the interim */
 @media (min-width: 768px) {
   .markers {
     display: grid;
-    grid-template-columns: 3fr 3fr 2fr 61% 15%;
+    grid-template-columns: 2fr 3fr 4fr 61% 15%;
+    /* grid-template-columns: 3fr 3fr 2fr 61% 15%; */
     /* grid-template-columns: repeat(4, minmax(65px, 20%)); */
     /* grid-template-columns: repeat(4, minmax(90px, 20%)); */
     /* grid-template-columns: 9fr 7fr 2fr */
@@ -46,6 +47,10 @@ to get text out of component with timecodes and speaker names in the interim */
     align-content: center; */
   }
 
+  .Wrapper {
+    display: flex;
+  }
+
   .speaker {
     color: $color-mid-grey;
     font-weight: bold;
@@ -59,9 +64,9 @@ to get text out of component with timecodes and speaker names in the interim */
   }
 
   .text {
-    font-size: 1em;
-    float: right;
-    clear: right;
+    /* cursor: pointer; */
+    justify-self: start;
+    display: flex;
   }
 }
 
