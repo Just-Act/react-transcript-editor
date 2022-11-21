@@ -221,22 +221,18 @@ class WrapperBlock extends React.Component {
       </span>
     )
     return (
-      <div className={style.WrapperBlock}>
-        <div
-          // className={[style.markers, style.unselectable].join(" ")}
-          className={style.markers}
-        // contentEditable={false}
-        >
-          {this.props.blockProps.showSpeakers ? speakerElement : ""}
+      <div className={style.section}>
 
-          {this.props.blockProps.showTimecodes ? timecodeElement : ""}{" "}{" "}{" "}
+        <div className={style.column} id={style.first}>{this.props.blockProps.showSpeakers ? speakerElement : ""}</div>
 
-          {this.state.confidence ? this.state.confidence : ""}{" "}{" "}{" "}
+        <div className={style.columnTwo}>{this.props.blockProps.showTimecodes ? timecodeElement : ""}</div>{" "}{" "}{" "}
 
-          {this.state.id}{" "} {" "}
+        <div className={style.columnThree}>{this.state.confidence ? this.state.confidence : ""}</div>{" "}{" "}{" "}
 
-          {editor}
-        </div>
+        <div className={style.columnFour}>{this.state.id}</div>{" "} {" "}
+
+        <div className={style.columnFive}>{editor}</div>
+
       </div >
     );
   }
