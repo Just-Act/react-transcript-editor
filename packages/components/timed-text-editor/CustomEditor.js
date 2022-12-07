@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Editor } from "draft-js";
 
-  
+
 import WrapperBlock from './WrapperBlock';
 import style from "./WrapperBlock.module.css";
 
@@ -50,17 +50,15 @@ class CustomEditor extends React.Component {
 
   render() {
     return (
-      <div className={style.customEditor}>
-        <Editor
-          editorState={this.props.editorState}
-          onChange={this.handleOnChange}
-          stripPastedStyles
-          blockRendererFn={this.renderBlockWithTimecodes}
-          handleKeyCommand={this.props.handleKeyCommand}
-          keyBindingFn={this.props.customKeyBindingFn}
-          spellCheck={this.props.spellCheck}
-        />
-      </div>
+      <Editor
+        editorState={this.props.editorState}
+        onChange={this.handleOnChange}
+        stripPastedStyles
+        blockRendererFn={this.renderBlockWithTimecodes}
+        handleKeyCommand={this.props.handleKeyCommand}
+        keyBindingFn={this.props.customKeyBindingFn}
+        spellCheck={this.props.spellCheck}
+      />
     );
   }
 }

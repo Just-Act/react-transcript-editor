@@ -18,7 +18,7 @@ to get text out of component with timecodes and speaker names in the interim */
 @media (min-width: 768px) {
   .markers {
     display: grid;
-    grid-template-columns: 2fr 3fr 4fr 61% 15%;
+    grid-template-columns: 2fr 3fr 4fr 60% 10%;
     /* grid-template-columns: 3fr 3fr 2fr 61% 15%; */
     /* grid-template-columns: repeat(4, minmax(65px, 20%)); */
     /* grid-template-columns: repeat(4, minmax(90px, 20%)); */
@@ -49,6 +49,79 @@ to get text out of component with timecodes and speaker names in the interim */
     grid-column-gap: 2%;
     /* justify-content: center;
     align-content: center; */
+  }
+
+  .section {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-bottom: 1em;
+  }
+
+  .column {
+    max-width: 100px;
+    margin-right: 1%;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: gray;
+    font-weight: bold;
+    /* background-color: #e2e2e2; */
+    /* padding: 1%;
+    margin: 1%; */
+    /* flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0; */
+  }
+
+  .columnTwo {
+    max-width: 70px;
+    /* background-color: #e2e2e2; */
+    /* padding: 1%;
+    margin: 1%; */
+    margin-right: 1%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
+  }
+
+  .columnThree {
+    max-width: 20px;
+    /* background-color: #e2e2e2; */
+    /* padding: 1%;
+    margin: 1%; */
+    margin-right: 1%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
+  }
+
+  .columnFour {
+    max-width: 30px;
+    margin-right: 8%;
+    /* background-color: #e2e2e2; */
+    /* padding: 1%;
+    margin: 1%; */
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
+  }
+
+  .columnFive {
+    min-width: 51%;
+    /* background-color: #e2e2e2; */
+    /* padding: 1%;
+    margin: 1%; */
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
+  }
+
+  #first {
+    flex-grow: 2.2;
+    flex-shrink: 2;
+    flex-basis: 0;
   }
 
   .Wrapper {
