@@ -51,7 +51,7 @@ class WrapperBlock extends React.Component {
 
     const id = block.getData().get("words");
     const ids = id ? id.map(item => item?.id + 1) : "";
-    const confidence = id ? id.map(item => item?.confidence) : "";
+    const confidence = id ? id.map(item => item?.confidence ? item?.confidence : "") : "";
 
     this.setState({
       speaker: speaker,
@@ -245,9 +245,11 @@ class WrapperBlock extends React.Component {
         <div className={style.timesCode}>
           {this.props.blockProps.showTimecodes ? timecodeElement : ""}{" "}{" "}{" "}
         </div>
-        <div className={style.confidence}>
-          {this.state.confidence ? `${this.state.confidence} %` : ""}
-        </div>
+        {this.state.confidence[0] ?
+          <div className={style.confidence}>
+            {`${this.state.confidence} %`}
+          </div>
+          : null}
         <div className={style.dataId}>
           {this.state.id}{" "} {" "}
         </div>
