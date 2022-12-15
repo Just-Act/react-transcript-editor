@@ -216,29 +216,45 @@ class WrapperBlock extends React.Component {
     );
 
     const editor = (
-      <div>
+      <span className={style.text}>
         <EditorBlock {...this.props} />
-      </div>
+      </span>
     )
     return (
-      <div className={style.section}>
-        {/* <div
-          // className={[style.markers, style.unselectable].join(" ")}
-          className={style.markers}
-        // contentEditable={false}
-        > */}
-        <div className={style.column} id={style.first}>{this.props.blockProps.showSpeakers ? speakerElement : ""}</div>
+      // <div className={style.WrapperBlock}>
+      //   <div
+      //     // className={[style.markers, style.unselectable].join(" ")}
+      //     className={style.markers}
+      //   // contentEditable={false}
+      //   >
+      //     {this.props.blockProps.showSpeakers ? speakerElement : ""}
 
-        <div className={style.columnTwo}>{this.props.blockProps.showTimecodes ? timecodeElement : ""}</div>{" "}{" "}{" "}
+      //     {this.props.blockProps.showTimecodes ? timecodeElement : ""}{" "}{" "}{" "}
 
-        <div className={style.columnThree}>{this.state.confidence ? this.state.confidence : ""}</div>{" "}{" "}{" "}
+      //     <b>{this.state.confidence ? `${this.state.confidence} %` : ""}</b>
 
-        <div className={style.columnFour}>{this.state.id}</div>{" "}
+      //     {this.state.id}{" "} {" "}
 
-        <div className={style.columnFive} ><EditorBlock {...this.props} /></div>
-
-        {/* </div> */}
-      </div >
+      //     {editor}
+      //   </div>
+      // </div >
+      <div className={style.editorContainer}>
+        <div className={style.speaker}>
+          {this.props.blockProps.showSpeakers ? speakerElement : ""}
+        </div>
+        <div className={style.timesCode}>
+          {this.props.blockProps.showTimecodes ? timecodeElement : ""}{" "}{" "}{" "}
+        </div>
+        <div className={style.confidence}>
+          {this.state.confidence ? `${this.state.confidence} %` : ""}
+        </div>
+        <div className={style.dataId}>
+          {this.state.id}{" "} {" "}
+        </div>
+        <div className={style.editorText}>
+          <EditorBlock {...this.props} />
+        </div>
+      </div>
     );
   }
 }

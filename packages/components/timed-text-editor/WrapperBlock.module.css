@@ -33,6 +33,31 @@ to get text out of component with timecodes and speaker names in the interim */
     gap: 20%;
   }
 
+  .editorContainer {
+    display: flex;
+    margin-bottom: 1em;
+  }
+
+  .speaker {
+    width: 100px;
+  }
+
+  .timesCode {
+    width: 90px;
+  }
+
+  .confidence {
+    width: 75px;
+  }
+
+  .dataId {
+    width: 52px;
+  }
+
+  .editorText {
+    width: 85%;
+  }
+
   .customEditor {
     display: flex;
   }

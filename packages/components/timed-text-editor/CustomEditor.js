@@ -2,9 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Editor } from "draft-js";
 
-
+  
 import WrapperBlock from './WrapperBlock';
-import style from "./WrapperBlock.module.css";
 
 // NOTE: custom editor is in a separate class to minimise re-renders
 // if considering refactoring, removing the separate class, please double check

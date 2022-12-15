@@ -3,7 +3,7 @@
     {
       "id": 0,
       "end": 17,
-      "confidence": "70",
+      "confidence": "70.01",
       "text": "Production by large companies such as PayPal, Uber, Netflix.",
       "start": 13
     },
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "end": 26,
-      "confidence": "70",
+      "confidence": "80.10",
       "text": "I found that.",
       "start": 26
     },
@@ -87,7 +87,7 @@
     {
       "id": 12,
       "end": 97,
-      "confidence": "70",
+      "confidence": "90.12",
       "text": "Open source library.",
       "start": 96
     },
@@ -1375,14 +1375,14 @@
     {
       "id": 196,
       "end": 1073,
-      "confidence": "70",
+      "confidence": "70.87",
       "text": "Is that these people?",
       "start": 1072
     },
     {
       "id": 197,
       "end": 1074,
-      "confidence": "70",
+      "confidence": "80.90",
       "text": "That were defined here.",
       "start": 1073
     },
